@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 
 const API_BASE_URL = 'https://hobeygrid.azurewebsites.net';
 
