@@ -1,0 +1,6 @@
+@HobeyGridApi_HostAddress = http://localhost:5139
+
+GET {{HobeyGridApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

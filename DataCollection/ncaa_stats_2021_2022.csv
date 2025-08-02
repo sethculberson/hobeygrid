@@ -1,0 +1,1501 @@
+ID,Player,Team,GP,G,A,TP,PPG,PIM,PM
+1,Bobby Brink (RW),University of Denver,41,14,43,57,1.39,44,27
+2,Nathan Smith (C),Minnesota State University (Mankato),38,19,31,50,1.32,43,22
+3,Bobby Trivigno (LW),UMass,37,20,29,49,1.32,28,22
+4,Julian Napravnik (RW),Minnesota State University (Mankato),40,18,31,49,1.23,10,32
+5,Owen Sillinger (C/LW),Bemidji State University,39,17,30,47,1.21,41,10
+6,Carter Savoie (LW),University of Denver,39,23,22,45,1.15,37,21
+7,Cole Guttman (C/RW),University of Denver,41,19,26,45,1.10,26,20
+8,Drew Worrad (C),Western Michigan University,39,9,36,45,1.15,20,10
+9,Brian Halonen (LW/RW),Michigan Tech,37,21,23,44,1.19,49,21
+10,Louis Boudon (C),Lake Superior State University,36,15,29,44,1.22,31,11
+11,Hank Crone (RW/LW),Northern Michigan University,32,13,31,44,1.38,22,7
+12,Brendan Furry (LW/RW),Minnesota State University (Mankato),44,13,31,44,1.00,20,30
+13,A.J. Vanderbeck (RW),Northern Michigan University,36,24,19,43,1.19,18,8
+14,Matty Beniers (C),University of Michigan,37,20,23,43,1.16,16,29
+15,Brett Stapley (C),University of Denver,41,18,25,43,1.05,54,22
+16,Brendan Brisson (LW/RW),University of Michigan,38,21,21,42,1.11,32,17
+17,Colin Theisen (C),Arizona State University,35,19,23,42,1.20,8,10
+18,Alex Ierullo (LW),Bemidji State University,39,16,26,42,1.08,28,14
+19,Ben Meyers (C/LW),University of Minnesota,34,17,24,41,1.21,18,16
+20,Cade Borchardt (F),Minnesota State University (Mankato),44,15,26,41,0.93,18,34
+21,Matt Kopperud (C),Arizona State University,34,22,18,40,1.18,28,-8
+22,Trenton Bliss (LW/C),Michigan Tech,36,12,28,40,1.11,26,14
+23,Ethen Frank (RW/C),Western Michigan University,38,26,13,39,1.03,34,15
+24,Aidan McDonough (LW/RW),Northeastern University,38,25,14,39,1.03,44,13
+25,Ture Linden (C),RPI (Rensselaer Polytech. Inst.),44,20,19,39,0.89,10,4
+26,Taylor Ward (RW),University of Nebraska-Omaha,38,19,20,39,1.03,39,0
+27,Luke Hughes (D),University of Michigan,41,17,22,39,0.95,10,26
+28,Brett Berard (LW),Providence College,36,18,20,38,1.06,37,10
+29,Lukas Sillinger (W/C),Bemidji State University,37,17,21,38,1.03,54,7
+30,Mike Benning (D),University of Denver,41,15,23,38,0.93,14,32
+31,Max Newton (C/RW),Merrimack College,35,14,24,38,1.09,16,1
+32,Carter Mazur (LW),University of Denver,41,14,24,38,0.93,44,23
+33,Riese Gaber (RW/LW),University of North Dakota,34,15,22,37,1.09,28,8
+34,Josh Doan (RW/LW),Arizona State University,35,12,25,37,1.06,54,9
+35,Thomas Bordeleau (C/LW),University of Michigan,37,12,25,37,1.00,35,18
+36,Zach Metsa (D),Quinnipiac University,42,10,27,37,0.88,8,38
+37,Kent Johnson (LW/C),University of Michigan,32,8,29,37,1.16,6,25
+38,Matt Coronato (RW/LW),Harvard University,34,18,18,36,1.06,14,11
+39,Kevin Fitzgerald (C),St. Cloud State University,37,17,19,36,0.97,22,12
+40,Ronnie Attard (D),Western Michigan University,39,13,23,36,0.92,24,20
+41,Massimo Rizzo (C),University of Denver,39,12,24,36,0.92,48,18
+42,Andre Ghantous (RW/LW),Northern Michigan University,37,10,26,36,0.97,57,4
+43,Miroslav Mucha (RW),Lake Superior State University,37,10,25,35,0.95,8,5
+44,Nick Poisson (F),Providence College,37,10,25,35,0.95,22,8
+45,Cameron Wright (RW),University of Denver,41,23,11,34,0.83,12,19
+46,Ryan Sandelin (RW/C),Minnesota State University (Mankato),41,21,13,34,0.83,28,32
+47,Georgii Merkulov (C/W),Ohio State University,36,20,14,34,0.94,10,18
+48,Blake Bennett (LW/RW),American International College,37,20,14,34,0.92,20,10
+49,Wyatt Bongiovanni (C/LW),Quinnipiac University,42,16,18,34,0.81,45,27
+50,Jack McBain (C/LW),Boston College,24,19,14,33,1.38,14,13
+51,Alexander Campbell (LW/C),Clarkson University,37,16,17,33,0.89,2,7
+52,Matthew Knies (LW/RW),University of Minnesota,33,15,18,33,1.00,31,15
+53,Scott Morrow (D),UMass,37,13,20,33,0.89,10,10
+54,Blake McLaughlin (LW/C),University of Minnesota,39,13,20,33,0.85,35,8
+55,Oliver Chau (C),Quinnipiac University,42,13,20,33,0.79,24,19
+56,Jáchym Kondelík (C/W),University of Connecticut,36,12,21,33,0.92,16,11
+57,Mathieu Gosselin (RW/LW),Clarkson University,37,11,22,33,0.89,37,13
+58,Nick Abruzzese (LW/C),Harvard University,28,9,24,33,1.18,8,14
+59,Tyler Weiss (LW/C),University of Nebraska-Omaha,36,8,25,33,0.92,20,2
+60,Marc McLaughlin (C/RW),Boston College,33,21,11,32,0.97,22,10
+61,Colton Young (LW),Colgate University,38,15,17,32,0.84,24,4
+62,Ryan Tverberg (C/RW),University of Connecticut,36,14,18,32,0.89,16,10
+63,Ethan De Jong (RW/LW),Quinnipiac University,42,11,21,32,0.76,24,23
+64,Brannon McManus (C/RW),University of Nebraska-Omaha,34,9,23,32,0.94,4,-1
+65,Michael Joyaux (D),Western Michigan University,39,8,24,32,0.82,25,-3
+66,Henry Thrun (D),Harvard University,35,7,25,32,0.91,10,9
+67,Owen Power (D),University of Michigan,33,3,29,32,0.97,12,27
+68,Zach Tsekos (C),Clarkson University,35,15,16,31,0.89,21,8
+69,Billy Jerry (C/RW),Long Island University,34,14,17,31,0.91,10,2
+70,Alex Laferriere (RW/LW),Harvard University,35,14,17,31,0.89,12,13
+71,Justin Young (C),American International College,36,12,19,31,0.86,16,18
+72,Colin Bilek (RW),Army (U.S. Military Academy),34,11,20,31,0.91,37,-10
+73,Neil Shea (LW),Sacred Heart University,37,11,20,31,0.84,10,15
+74,Alex Young (C/W),Colgate University,39,10,21,31,0.79,51,-1
+75,Jake Livingstone (D),Minnesota State University (Mankato),44,9,22,31,0.70,32,27
+76,Nick Perbix (D),St. Cloud State University,31,6,25,31,1.00,14,3
+77,Brandon Scanlin (D),University of Nebraska-Omaha,38,6,25,31,0.82,31,-13
+78,Domenick Fensore (D),Boston University,35,5,26,31,0.89,8,7
+79,Ryan Ufko (D),UMass,37,5,26,31,0.84,12,4
+80,Wilmer Skoog (C),Boston University,35,15,15,30,0.86,20,3
+81,Jami Krannila (C),St. Cloud State University,37,15,15,30,0.81,40,6
+82,Carter Wilkie (RW),RIT (Rochester Inst. of Tech.),38,13,17,30,0.79,37,4
+83,Ottoville Leppänen (F),RPI (Rensselaer Polytech. Inst.),42,9,21,30,0.71,31,1
+84,Taylor Schneider (LW),Bowling Green State University,37,8,22,30,0.81,20,-2
+85,Jackson LaCombe (D),University of Minnesota,39,3,27,30,0.77,12,23
+86,Will Gavin (LW/C),Air Force Academy,35,16,13,29,0.83,73,-2
+87,Kevin Wall (RW),Penn State University,38,16,13,29,0.76,32,5
+88,Kobe Roth (F),University of Minnesota-Duluth,42,16,13,29,0.69,2,-3
+89,Nick Blankenburg (D),University of Michigan,38,14,15,29,0.76,22,17
+90,Matt Stienburg (C),Cornell University,28,13,16,29,1.04,30,11
+91,Chris Dodero (C/LW),American International College,36,13,16,29,0.81,6,6
+92,Christopher Theodore (LW),American International College,35,10,19,29,0.83,6,12
+93,Mackie Samoskevich (RW/C),University of Michigan,40,10,19,29,0.73,12,10
+94,Ayrton Martino (LW),Clarkson University,37,7,22,29,0.78,8,5
+95,Brandon Estes (D),Union College,37,7,22,29,0.78,10,-7
+96,Zak Galambos (D),American International College,36,5,24,29,0.81,49,1
+97,Mason Lohrei (D),Ohio State University,31,4,25,29,0.94,20,16
+98,Sean Behrens (D),University of Denver,37,3,26,29,0.78,12,9
+99,Blake Biondi (C/RW),University of Minnesota-Duluth,42,17,11,28,0.67,16,15
+100,Andre Lee (LW/C),UMass-Lowell,34,16,12,28,0.82,50,12
+101,Max Ellis (RW),University of Notre Dame,39,16,12,28,0.72,14,12
+102,Reggie Lutz (RW),Minnesota State University (Mankato),37,15,13,28,0.76,16,11
+103,Anthony Romano (C/RW),Clarkson University,37,15,13,28,0.76,18,7
+104,Connor MacEachern (C),Penn State University,36,14,14,28,0.78,16,9
+105,Jake Stella (LW),American International College,37,12,16,28,0.76,12,10
+106,Tommy Parrottino (F),Michigan Tech,37,11,17,28,0.76,8,12
+107,Zachary Okabe (RW),St. Cloud State University,37,11,17,28,0.76,14,1
+108,Sean Farrell (C/LW),Harvard University,24,10,18,28,1.17,11,6
+109,Jake Wise (C/LW),Ohio State University,35,10,18,28,0.80,2,15
+110,Matthew Verboon (RW/C),Colgate University,40,10,18,28,0.70,6,9
+111,Carl Berglund (C/LW),UMass-Lowell,33,9,19,28,0.85,8,9
+112,Trevor Cosgrove (D),Northern Michigan University,37,9,19,28,0.76,26,5
+113,Steven Jandric (LW),Merrimack College,34,8,20,28,0.82,10,-3
+114,Josh Passolt (LW),Western Michigan University,38,8,20,28,0.74,20,-4
+115,Derek Daschke (D),Miami University (Ohio),36,4,24,28,0.78,8,-18
+116,Connor Ford (C),University of North Dakota,37,4,24,28,0.76,8,2
+117,Michael Colella (F),Northern Michigan University,37,15,12,27,0.73,10,1
+118,Will Calverley (C),RIT (Rochester Inst. of Tech.),38,15,12,27,0.71,12,2
+119,Sammy Walker (C/RW),University of Minnesota,39,14,13,27,0.69,20,14
+120,Josh McKechney (F),Colgate University,40,14,13,27,0.68,21,8
+121,Michael Lombardi (C/LW),Quinnipiac University,42,14,13,27,0.64,10,30
+122,Carson Brière (C/RW),Mercyhurst University,31,13,14,27,0.87,20,4
+123,Parker Ford (C/RW),Providence College,38,13,14,27,0.71,31,6
+124,Josh Lopina (C/RW),UMass,27,12,15,27,1.00,8,21
+125,Sam Colangelo (RW/C),Northeastern University,29,12,15,27,0.93,18,8
+126,Braeden Tuck (F),Sacred Heart University,35,12,15,27,0.77,2,8
+127,Easton Brodzinski (RW/LW),St. Cloud State University,36,12,15,27,0.75,72,2
+128,Austin Heidemann (F),Mercyhurst University,38,12,15,27,0.71,18,-6
+129,Filip Forsmark (LW/RW),Merrimack College,33,11,16,27,0.82,35,8
+130,Tyler Ward (LW),University of New Hampshire,34,11,16,27,0.79,4,-10
+131,Liam Walsh (LW),Merrimack College,34,10,17,27,0.79,41,1
+132,Ryder Rolston (W/C),University of Notre Dame,38,10,17,27,0.71,24,8
+133,Drew Bavaro (D),Bentley University,36,9,18,27,0.75,26,-11
+134,Dante Sheriff (RW),Mercyhurst University,33,8,19,27,0.82,43,5
+135,Simon Kjellberg (D),RPI (Rensselaer Polytech. Inst.),43,8,19,27,0.63,16,-5
+136,Spencer Stastney (D),University of Notre Dame,39,7,20,27,0.69,8,18
+137,Nick Leivermann (D),University of Notre Dame,34,6,21,27,0.79,8,16
+138,Ben Newhouse (D),Northern Michigan University,37,5,22,27,0.73,4,8
+139,Jacob Bengtsson (D),Lake Superior State University,36,3,24,27,0.75,63,5
+140,Jason Polin (RW),Western Michigan University,39,16,10,26,0.67,4,6
+141,Ryan Kirwan (LW/RW),Penn State University,36,13,13,26,0.72,8,3
+142,Brian Rigali (F),American International College,32,12,14,26,0.81,8,5
+143,Bryce Brodzinski (RW),University of Minnesota,39,12,14,26,0.67,10,6
+144,Landon Slaggert (LW/C),University of Notre Dame,40,12,14,26,0.65,39,9
+145,Keaton Mastrodonato (RW/C),Canisius College,30,11,15,26,0.87,20,6
+146,Michael Pastujov (LW),University of Michigan,42,11,15,26,0.62,6,15
+147,Ryan Leibold (F),College of the Holy Cross,35,10,16,26,0.74,24,3
+148,Cole Gallant (C),Western Michigan University,39,9,17,26,0.67,2,15
+149,Jake Sanderson (D),University of North Dakota,23,8,18,26,1.13,6,5
+150,Austen Swankler (C),Bowling Green State University,36,8,18,26,0.72,14,-8
+151,Elias Rosén (D),Bemidji State University,38,7,19,26,0.68,18,0
+152,Koby Bender (RW/C),University of Minnesota-Duluth,42,7,19,26,0.62,14,-2
+153,Brandon Kruse (LW),Boston College,38,3,23,26,0.68,18,-4
+154,Akito Hirose (D),Minnesota State University (Mankato),38,2,24,26,0.68,8,28
+155,Garrett Wait (LW),UMass,32,13,12,25,0.78,12,16
+156,Graham Slaggert (C/LW),University of Notre Dame,39,12,13,25,0.64,27,9
+157,Willie Reim (F),Air Force Academy,32,11,14,25,0.78,16,1
+158,Robert Mastrosimone (LW/C),Boston University,34,11,14,25,0.74,28,5
+159,Patrick Moynihan (RW),Providence College,38,11,14,25,0.66,24,0
+160,Alex Barber (F),Bowling Green State University,32,10,15,25,0.78,32,-9
+161,Lynden Breen (C/LW),University of Maine,33,9,16,25,0.76,10,-10
+162,Filip Fornåå Svensson (C/RW),University of Alaska-Fairbanks,34,9,16,25,0.74,12,-2
+163,Sam Morton (C/LW),Minnesota State University (Mankato),38,9,16,25,0.66,12,26
+164,Casey Dornbach (C/W),Harvard University,34,8,17,25,0.74,8,0
+165,Cam Thiesing (C),Ohio State University,37,8,17,25,0.68,53,21
+166,Gunnarwolfe Fontaine (LW/C),Northeastern University,39,8,17,25,0.64,20,5
+167,Jakub Lacka (LW),RPI (Rensselaer Polytech. Inst.),42,8,17,25,0.60,16,0
+168,Tyler Welsh (C/RW),Long Island University,27,7,18,25,0.93,26,-8
+169,Quinn Olson (LW/C),University of Minnesota-Duluth,42,6,19,25,0.60,41,5
+170,Drew Helleson (D),Boston College,32,4,21,25,0.78,30,-9
+171,Brandon Koch (D),Air Force Academy,36,3,22,25,0.69,22,3
+172,Jack Jacome (RW/LW),Clarkson University,32,2,23,25,0.78,22,0
+173,Trevor Janicke (RW/C),University of Notre Dame,40,15,9,24,0.60,14,5
+174,Jackson Pierson (C),University of New Hampshire,34,12,12,24,0.71,8,-9
+175,Noah Cates (LW),University of Minnesota-Duluth,37,11,13,24,0.65,19,4
+176,Nolan Walker (C),St. Cloud State University,37,11,13,24,0.65,26,-9
+177,Austin Magera (C),Sacred Heart University,30,10,14,24,0.80,25,0
+178,Brady Risk (RW/LW),University of Alaska-Fairbanks,31,10,14,24,0.77,27,0
+179,Elijiah Barriga (C),American International College,37,9,15,24,0.65,16,6
+180,Jack Becker (C/RW),Arizona State University,35,8,16,24,0.69,12,-2
+181,P.J. Fletcher (C/RW),Miami University (Ohio),35,8,16,24,0.69,14,-3
+182,Jake Schmaltz (LW/C),University of North Dakota,39,8,16,24,0.62,10,7
+183,Declan Carlile (D),Merrimack College,35,7,17,24,0.69,8,14
+184,Clay Cosentino (F),Air Force Academy,36,7,17,24,0.67,18,2
+185,Nikita Nesterenko (C/LW),Boston College,37,7,17,24,0.65,50,7
+186,Jack St. Ivany (D),Boston College,35,4,20,24,0.69,6,8
+187,Jesse Tucker (C),Michigan State University,36,2,22,24,0.67,12,-7
+188,Nathan Burke (C/LW),Bowling Green State University,37,16,7,23,0.62,14,-10
+189,Rylee St. Onge (LW),Mercyhurst University,36,15,8,23,0.64,37,1
+190,Ben Berard (LW),Cornell University,26,14,9,23,0.88,6,11
+191,Logan Pietila (RW/C),Michigan Tech,34,13,10,23,0.68,2,11
+192,Ty Smilanic (C),Quinnipiac University,41,13,10,23,0.56,34,16
+193,Max Kouznetsov (LW/C),Canisius College,32,12,11,23,0.72,20,6
+194,Vladislav Firstov (LW),University of Connecticut,35,12,11,23,0.66,18,10
+195,Lee Lapid (C),Canisius College,33,11,12,23,0.70,29,6
+196,Cole Kodsi (LW),Bentley University,33,10,13,23,0.70,10,2
+197,Alex Jefferies (LW),Merrimack College,33,10,13,23,0.70,10,-7
+198,Lucas Condotta (C),UMass-Lowell,33,10,13,23,0.70,25,4
+199,Veeti Miettinen (RW),St. Cloud State University,37,10,13,23,0.62,0,1
+200,T.J. Friedmann (W/C),Quinnipiac University,41,10,13,23,0.56,14,21
+201,Maxim Andreev (C/LW),Cornell University,22,9,14,23,1.05,23,17
+202,Chayse Primeau (W/C),University of Nebraska-Omaha,30,9,14,23,0.77,18,1
+203,Sean Chisholm (C/LW),Dartmouth College,31,9,14,23,0.74,27,1
+204,Justin Michaelian (F),Ferris State University,35,8,15,23,0.66,12,-10
+205,Matt Barry (F),Miami University (Ohio),36,8,15,23,0.64,20,-20
+206,Cameron Berg (C/LW),University of Nebraska-Omaha,37,8,15,23,0.62,14,4
+207,Matt Gosiewski (C),Bentley University,32,7,16,23,0.72,6,-9
+208,Maxwell Crozier (D),Providence College,32,7,16,23,0.72,16,9
+209,Ryan Naumovski (F),Niagara University,36,7,16,23,0.64,2,-13
+210,Lucas Sowder (LW),Minnesota State University (Mankato),37,7,16,23,0.62,4,9
+211,Ben Copeland (C),Penn State University,33,6,17,23,0.70,10,-11
+212,Sam Malinski (D),Cornell University,32,5,18,23,0.72,26,20
+213,Colin Swoyer (D),Michigan Tech,36,5,18,23,0.64,22,11
+214,Patrick Giles (C/RW),Boston College,37,15,7,22,0.59,26,3
+215,Brandon Puricelli (RW),Lake Superior State University,24,13,9,22,0.92,10,-3
+216,Sam Hentges (C/LW),St. Cloud State University,20,12,10,22,1.10,19,8
+217,Ondřej Pavel (C/LW),Minnesota State University (Mankato),44,12,10,22,0.50,24,19
+218,Jeremy Davidson (RW),Michigan State University,32,11,11,22,0.69,24,-2
+219,Nathan Horn (F),Air Force Academy,33,11,11,22,0.67,19,1
+220,Collin Graf (RW/C),Union College,37,11,11,22,0.59,10,-2
+221,Jay O'Brien (C),Boston University,24,10,12,22,0.92,38,2
+222,Corey Andonovski (RW/LW),Princeton University,31,10,12,22,0.71,34,-12
+223,Matthew Barbolini (C/LW),Miami University (Ohio),35,10,12,22,0.63,32,-13
+224,Mathieu De St. Phalle (RW/LW),University of Wisconsin,36,10,12,22,0.61,8,-10
+225,David Keefer (RW),Northern Michigan University,36,10,12,22,0.61,18,1
+226,Ethan Somoza (LW),Bemidji State University,38,10,12,22,0.58,8,-16
+227,Max Sasson (C/W),Western Michigan University,37,9,13,22,0.59,18,4
+228,Colby Ambrosio (C/RW),Boston College,38,9,13,22,0.58,8,7
+229,Ryan Brushett (C),UMass-Lowell,35,8,14,22,0.63,4,0
+230,Casey Gilling (C),University of Minnesota-Duluth,40,8,14,22,0.55,14,-8
+231,Justin Hryckowian (C/LW),Northeastern University,27,7,15,22,0.81,14,1
+232,Lukas Kälble (D),Clarkson University,32,7,15,22,0.69,16,6
+233,Corson Ceulemans (D),University of Wisconsin,34,7,15,22,0.65,33,-12
+234,Hampus Eriksson (C/W),Northern Michigan University,33,6,16,22,0.67,18,7
+235,Ben Schoen (C),Penn State University,37,6,16,22,0.59,39,8
+236,Mitchell Martan (LW),Canisius College,31,5,17,22,0.71,31,9
+237,Noah Beck (D),Clarkson University,37,5,17,22,0.59,24,8
+238,Tim Lovell (D),Arizona State University,34,4,18,22,0.65,28,-6
+239,Nick Hale (D),College of the Holy Cross,35,4,18,22,0.63,20,-10
+240,Hunter McKown (C/RW),Colorado College,35,13,8,21,0.60,29,-10
+241,Ondrej Psenicka (RW),Cornell University,32,12,9,21,0.66,18,21
+242,Matt Crasa (C/RW),UMass-Lowell,35,12,9,21,0.60,12,6
+243,Austin Alger (F),Canisius College,33,11,10,21,0.64,18,-2
+244,Ashton Calder (F),University of North Dakota,34,11,10,21,0.62,14,3
+245,Ryan Steele (F),Sacred Heart University,34,10,11,21,0.62,29,-1
+246,Kevin Conley (LW/C),University of Nebraska-Omaha,37,10,11,21,0.57,77,-1
+247,Anthony Firriolo (D),Army (U.S. Military Academy),35,9,12,21,0.60,26,-15
+248,Jake Hamacher (LW),RIT (Rochester Inst. of Tech.),37,9,12,21,0.57,19,-6
+249,Albin Nilsson (C),Niagara University,32,8,13,21,0.66,16,-12
+250,Matteo Costantini (C/LW),University of North Dakota,35,8,13,21,0.60,4,12
+251,Marc Gatcomb (C/RW),University of Connecticut,36,8,13,21,0.58,14,6
+252,Ty Glover (LW/C),Western Michigan University,39,8,13,21,0.54,48,2
+253,Ryan Barrow (RW),University of Denver,41,8,13,21,0.51,12,19
+254,Filip Engarås (C/RW),University of New Hampshire,33,7,14,21,0.64,16,-6
+255,Gabriel Seger (LW/C),Union College,34,7,14,21,0.62,21,-2
+256,Marshall Warren (D),Boston College,37,6,15,21,0.57,12,-3
+257,Logan Britt (D),Sacred Heart University,37,3,18,21,0.57,30,6
+258,Jimmy Dowd (D),Penn State University,37,3,18,21,0.57,32,-10
+259,Erik Middendorf (LW),Michigan State University,36,12,8,20,0.56,24,-20
+260,Didrik Henbrant (RW/C),University of Alaska-Fairbanks,34,11,9,20,0.59,37,-2
+261,Ben Brar (LW),Merrimack College,35,11,9,20,0.57,20,3
+262,Judd Caulfield (RW/LW),University of North Dakota,39,11,9,20,0.51,10,7
+263,Zach Dubinsky (F),RPI (Rensselaer Polytech. Inst.),44,10,10,20,0.45,24,-5
+264,Logan Jenuwine (F),Lake Superior State University,27,9,11,20,0.74,4,6
+265,Trevor Kuntar (C/LW),Boston College,36,9,11,20,0.56,33,2
+266,Jack Randl (LW),University of Nebraska-Omaha,38,9,11,20,0.53,26,-3
+267,Daniel Haider (F),Army (U.S. Military Academy),30,8,12,20,0.67,6,8
+268,Jack Malone (RW/C),Cornell University,32,8,12,20,0.63,26,2
+269,Reid Stefanson (C/LW),UMass-Lowell,34,8,12,20,0.59,8,-1
+270,Josh Nixon (RW),Lake Superior State University,37,8,12,20,0.54,16,-3
+271,Dylan Anhorn (D),Union College,29,7,13,20,0.69,6,-1
+272,Spencer Cox (D/C),Long Island University,34,7,13,20,0.59,47,-9
+273,Dylan Pitera (F),Bentley University,35,7,13,20,0.57,29,4
+274,Ryan Mahshie (F),RPI (Rensselaer Polytech. Inst.),38,7,13,20,0.53,4,-6
+275,Ty Jackson (C),Northeastern University,28,6,14,20,0.71,10,19
+276,Jonathan Bendorf (LW),Mercyhurst University,36,6,14,20,0.56,4,1
+277,Grant Gabriele (D),Ohio State University,37,5,15,20,0.54,12,12
+278,Jordan Harris (D),Northeastern University,39,5,15,20,0.51,14,11
+279,Tanner Palocsik (D),Dartmouth College,32,4,16,20,0.63,10,-18
+280,Brendan Less (D),Quinnipiac University,39,4,16,20,0.51,12,31
+281,Ryan Siedem (D),Harvard University,34,3,17,20,0.59,10,16
+282,Skyler Brind'Amour (C/LW),Quinnipiac University,41,3,17,20,0.49,18,18
+283,Justin Addamo (C/RW),RPI (Rensselaer Polytech. Inst.),42,14,5,19,0.45,43,-9
+284,Liam Robertson (C),Union College,35,13,6,19,0.54,18,-10
+285,Griffin Lunn (F),Colgate University,32,12,7,19,0.59,14,3
+286,Kobe Walker (RW),RIT (Rochester Inst. of Tech.),29,11,8,19,0.66,12,1
+287,Ryan Cox (F),Niagara University,36,11,8,19,0.53,18,-8
+288,John Farinacci (C/RW),Harvard University,29,10,9,19,0.66,12,12
+289,Donavan Houle (C/RW),University of Maine,32,10,9,19,0.59,44,-2
+290,Coale Norris (LW),Bowling Green State University,33,10,9,19,0.58,26,-6
+291,Matt Lombardozzi (D),Bentley University,35,10,9,19,0.54,62,-15
+292,Bradley Marek (LW),Ferris State University,36,10,9,19,0.53,12,-12
+293,Micah Miller (RW/C),St. Cloud State University,37,10,9,19,0.51,6,18
+294,Riley Duran (C/RW),Providence College,38,10,9,19,0.50,18,9
+295,Dylan Duke (LW/C),University of Michigan,41,10,9,19,0.46,20,7
+296,Chase Gresock (F),Miami University (Ohio),21,9,10,19,0.90,6,-2
+297,Chaz Lucius (C),University of Minnesota,24,9,10,19,0.79,23,5
+298,Ian Murphy (RW/C),Princeton University,25,9,10,19,0.76,42,0
+299,Louis Jamernik (RW),University of North Dakota,37,9,10,19,0.51,32,0
+300,Jesse Lansdell (LW),University of Notre Dame,36,8,11,19,0.53,33,3
+301,Cam Burke (C),University of Notre Dame,38,8,11,19,0.50,4,2
+302,Mitch Lewandowski (LW),Michigan State University,21,7,12,19,0.90,12,7
+303,Harrison Roy (F),Lake Superior State University,29,7,12,19,0.66,8,-1
+304,Dallas Tulik (F),Ferris State University,29,7,12,19,0.66,32,1
+305,Quinn Preston (F),Ohio State University,31,7,12,19,0.61,55,13
+306,Brock Caufield (RW),University of Wisconsin,37,7,12,19,0.51,14,-15
+307,Samuel Brennan (D),Air Force Academy,34,6,13,19,0.56,38,-17
+308,Kaden Pickering (RW),St. Lawrence University,36,6,13,19,0.53,30,-2
+309,Justin Misiak (C),Michigan Tech,33,5,14,19,0.58,12,4
+310,Parker Brown (F),Air Force Academy,34,5,14,19,0.56,21,3
+311,Garrett Pyke (D),University of Alaska-Fairbanks,34,4,15,19,0.56,46,2
+312,T.J. Walsh (LW),RPI (Rensselaer Polytech. Inst.),36,4,15,19,0.53,4,-6
+313,Antti Virtanen (D),University of Alaska-Fairbanks,30,3,16,19,0.63,28,6
+314,Jack Devine (RW),University of Denver,36,3,16,19,0.53,16,12
+315,Eric Martin (F),Bemidji State University,39,3,16,19,0.49,8,-8
+316,Ryan Johnson (D),University of Minnesota,39,3,16,19,0.49,14,5
+317,Zach Uens (D),Merrimack College,34,2,17,19,0.56,28,8
+318,Wyatt Kaiser (D),University of Minnesota-Duluth,34,2,17,19,0.56,46,-2
+319,Nick Anderson (D),Colgate University,35,1,18,19,0.54,23,-6
+320,Gabriel Chicoine (D),Bowling Green State University,37,1,18,19,0.51,24,0
+321,Tyler Kirkup (C/LW),Bemidji State University,39,12,6,18,0.46,39,-4
+322,Mark Gallant (F),Dartmouth College,28,11,7,18,0.64,20,-9
+323,Jack Ricketts (C),College of the Holy Cross,35,10,8,18,0.51,28,-2
+324,Joey Cipollone (C),Quinnipiac University,41,10,8,18,0.44,8,15
+325,Anton Rubtsov (F),University of Alaska-Fairbanks,24,9,9,18,0.75,16,13
+326,Reed Lebster (RW),UMass,36,9,9,18,0.50,23,4
+327,Braiden Dorfman (F),Dartmouth College,31,8,10,18,0.58,34,-7
+328,Shane Ott (F),Niagara University,36,8,10,18,0.50,8,-2
+329,Justin Paul (LW),St. Lawrence University,37,8,10,18,0.49,26,-16
+330,Kohen Olischefski (RW),Providence College,38,8,10,18,0.47,0,7
+331,Alex Ambrosio (F),Canisius College,35,7,11,18,0.51,24,4
+332,Matthew Guerra (F),College of the Holy Cross,36,7,11,18,0.50,45,-11
+333,Jamie Engelbert (C),Providence College,38,7,11,18,0.47,14,3
+334,Cal Kiefiuk (F),UMass,30,6,12,18,0.60,24,2
+335,Brenden Locke (C),Cornell University,32,6,12,18,0.56,16,1
+336,Logan Will (F),Colorado College,32,6,12,18,0.56,16,-8
+337,Kyle Betts (C),Cornell University,32,6,12,18,0.56,34,6
+338,Danny Dzhaniyev (F),Penn State University,36,6,12,18,0.50,6,-2
+339,Stan Cooley (C),Colorado College,36,6,12,18,0.50,22,-11
+340,Mitchell Digby (D),Air Force Academy,36,6,12,18,0.50,33,-8
+341,Dominic James (C/LW),University of Minnesota-Duluth,39,6,12,18,0.46,12,11
+342,Hudson Schandor (C),University of Connecticut,28,5,13,18,0.64,12,4
+343,Rhett Pitlick (LW/RW),University of Minnesota,30,5,13,18,0.60,12,20
+344,Grant Silianoff (RW),University of Notre Dame,32,5,13,18,0.56,8,9
+345,Spencer Meier (D),St. Cloud State University,36,5,13,18,0.50,6,-3
+346,Kyler Kupka (F),St. Cloud State University,37,5,13,18,0.49,6,12
+347,Dan Willett (D),RIT (Rochester Inst. of Tech.),38,5,13,18,0.47,24,-16
+348,Luis Lindner (D/F),American International College,28,4,14,18,0.64,8,19
+349,Thomas Farrell (D),Army (U.S. Military Academy),35,4,14,18,0.51,48,-8
+350,John Spetz (D),University of Connecticut,36,4,14,18,0.50,14,5
+351,Shai Buium (D),University of Denver,39,3,15,18,0.46,12,20
+352,Luke Santerno (F),Clarkson University,31,12,5,17,0.55,18,4
+353,Eric Butte (F),Army (U.S. Military Academy),35,11,6,17,0.49,10,-8
+354,Justin Jallen (F),Brown University,30,10,7,17,0.57,6,-9
+355,John Jaworski (F),Sacred Heart University,37,9,8,17,0.46,13,-8
+356,Jakov Novak (LW/C),Northeastern University,39,8,9,17,0.44,28,3
+357,Desi Burgart (F),Quinnipiac University,42,8,9,17,0.40,6,11
+358,David Silye (C/RW),Minnesota State University (Mankato),43,8,9,17,0.40,18,19
+359,Matt Brown (LW/RW),Boston University,24,7,10,17,0.71,4,-3
+360,Collin Rutherford (C),Bentley University,34,7,10,17,0.50,2,-6
+361,Lucas Thorne (C),College of the Holy Cross,35,7,10,17,0.49,6,-2
+362,Joey Baez (F),Army (U.S. Military Academy),35,7,10,17,0.49,8,1
+363,Artem Shlaine (C),University of Connecticut,36,7,10,17,0.47,6,2
+364,Anthony Del Gaizo (LW/C),UMass,36,7,10,17,0.47,12,2
+365,Ethan Phillips (C/RW),Boston University,28,6,11,17,0.61,12,4
+366,Liam MacDougall (C/W),Ferris State University,35,6,11,17,0.49,49,-4
+367,Matt Kessel (D),UMass,37,6,11,17,0.46,22,9
+368,Guus van Nes (LW/RW),Quinnipiac University,37,6,11,17,0.46,26,13
+369,Tarek Baker (LW),University of Wisconsin,27,5,12,17,0.63,38,-4
+370,Mark Senden (C/LW),University of North Dakota,34,5,12,17,0.50,16,1
+371,Solag Bakich (F),University of Notre Dame,35,5,12,17,0.49,32,12
+372,Brett Thorne (D),Michigan Tech,37,5,12,17,0.46,31,6
+373,Jake Stevens (D),Long Island University,34,4,13,17,0.50,19,-7
+374,Chris Harpur (D),Niagara University,35,3,14,17,0.49,39,-21
+375,Jack Peart (D),St. Cloud State University,32,2,15,17,0.53,24,5
+376,Jacob Truscott (D),University of Michigan,40,2,15,17,0.43,31,28
+377,Owen Gallatin (D),University of Minnesota-Duluth,42,2,15,17,0.40,22,18
+378,Jack McNeely (D),Minnesota State University (Mankato),44,2,15,17,0.39,18,35
+379,Nick Austin (D),UMass-Lowell,35,1,16,17,0.49,16,3
+380,Tristan Ashbrook (C/RW),Michigan Tech,37,11,5,16,0.43,8,4
+381,Dylan Peterson (C/RW),Boston University,29,10,6,16,0.55,18,3
+382,Alex Frye (C),Northern Michigan University,33,10,6,16,0.48,31,5
+383,Liam Devlin (F),University of New Hampshire,34,9,7,16,0.47,35,0
+384,Jordan Timmons (F),Long Island University,29,8,8,16,0.55,33,3
+385,Ross Armour (C/RW),Bemidji State University,34,8,8,16,0.47,18,-5
+386,Philip Lagunov (C),University of Vermont,35,8,8,16,0.46,10,-9
+387,Ricky Lyle (LW),Army (U.S. Military Academy),35,8,8,16,0.46,16,-2
+388,Dennis Cesana (D),Michigan State University,36,8,8,16,0.44,14,-8
+389,Gustaf Westlund (C/W),Ohio State University,37,8,8,16,0.43,38,-5
+390,Grant Hebert (C),University of Maine,29,7,9,16,0.55,35,-2
+391,Gueorgui Feduolov (F),Mercyhurst University,36,7,9,16,0.44,8,-4
+392,Aaron Huglen (W/C),University of Minnesota,37,7,9,16,0.43,14,13
+393,Kamil Sadlocha (C),Ohio State University,37,7,9,16,0.43,25,7
+394,Pierce Crawford (F),Mercyhurst University,38,7,9,16,0.42,50,-4
+395,Jack Hughes (C),Northeastern University,39,7,9,16,0.41,28,-2
+396,Cade Townend (D),Mercyhurst University,39,7,9,16,0.41,37,-6
+397,Matthew Gleason (C),Colorado College,28,6,10,16,0.57,2,-12
+398,Colton Huard (D),University of New Hampshire,28,6,10,16,0.57,6,-1
+399,Spencer Kersten (RW/LW),Princeton University,31,6,10,16,0.52,14,-10
+400,Vincent De Mey (F),Northern Michigan University,35,6,10,16,0.46,12,-7
+401,Andrius Kulbis-Marino (D),Sacred Heart University,35,6,10,16,0.46,17,3
+402,Red Savage (C),Miami University (Ohio),35,6,10,16,0.46,43,-10
+403,Luke Rowe (D),Air Force Academy,35,6,10,16,0.46,54,-1
+404,Kevin O'Neil (RW/LW),University of Connecticut,36,6,10,16,0.44,16,7
+405,Jack Adams (RW/C),University of Notre Dame,38,6,10,16,0.42,8,6
+406,Jayden Lee (D),Quinnipiac University,42,6,10,16,0.38,2,21
+407,Christiano Versich (RW),University of St. Thomas,31,5,11,16,0.52,8,-15
+408,Ty Gallagher (D),Boston University,34,5,11,16,0.47,35,6
+409,Jacob Nordqvist (D),Lake Superior State University,36,5,11,16,0.44,24,2
+410,Chaz Smedsrud (LW),Union College,37,5,11,16,0.43,10,-3
+411,Anthony Callin (RW/D),Clarkson University,21,4,12,16,0.76,2,4
+412,David Jankowski (C/RW),St. Lawrence University,33,4,12,16,0.48,16,0
+413,Tyler Watkins (F),Union College,34,4,12,16,0.47,4,-5
+414,Zach Vinnell (D/LW),Merrimack College,35,4,12,16,0.46,12,0
+415,Cole McWard (D),Ohio State University,36,4,12,16,0.44,2,13
+416,Arvid Caderoth (C/RW),Michigan Tech,37,4,12,16,0.43,27,-4
+417,Ethan Manderville (C),Colgate University,39,4,12,16,0.41,6,4
+418,Travis Mitchell (D),Cornell University,32,3,13,16,0.50,40,14
+419,Jackson Decker (D),Canisius College,35,3,13,16,0.46,28,4
+420,Justin Lee (D),University of Denver,38,3,13,16,0.42,30,23
+421,Andy Carroll (D),Minnesota State University (Mankato),43,3,13,16,0.37,4,28
+422,David Breazeale (D),University of Maine,33,2,14,16,0.48,8,2
+423,David Melaragni (D),Canisius College,35,2,14,16,0.46,41,14
+424,Chase Blackmun (D),University of Notre Dame,40,2,14,16,0.40,22,2
+425,Jake Johnson (D),RPI (Rensselaer Polytech. Inst.),40,2,14,16,0.40,26,5
+426,Seamus Donohue (D),St. Cloud State University,35,1,15,16,0.46,30,1
+427,Adam Karashik (D),University of Notre Dame,40,1,15,16,0.40,26,15
+428,Tyler Paquette (RW/C),Penn State University,36,11,4,15,0.42,6,0
+429,Carter Turnbull (RW/C),University of Connecticut,36,11,4,15,0.42,22,2
+430,Tate Singleton (C),Ohio State University,37,10,5,15,0.41,28,-2
+431,Ben Poisson (F),University of Maine,32,9,6,15,0.47,6,-4
+432,Ethan Frisch (D),University of North Dakota,36,9,6,15,0.42,16,0
+433,Walker Sommer (C),Niagara University,29,8,7,15,0.52,6,-5
+434,Luke Manning (C/W),University of St. Thomas,36,8,7,15,0.42,12,-22
+435,Luke Grainger (RW/C),Western Michigan University,39,8,7,15,0.38,12,-2
+436,Hunter Strand (C),University of Notre Dame,40,8,7,15,0.38,8,10
+437,Alex Gaffney (C),Harvard University,32,7,8,15,0.47,16,8
+438,Grant Cruikshank (C/LW),University of Minnesota,33,7,8,15,0.45,0,8
+439,Connor Sodergren (F),UMass-Lowell,35,7,8,15,0.43,24,6
+440,Josh Nodler (C/RW),Michigan State University,36,7,8,15,0.42,4,-9
+441,Chris Van Os-Shaw (LW),American International College,36,7,8,15,0.42,41,1
+442,Nolan Moyle (C/RW),University of Michigan,36,7,8,15,0.42,49,11
+443,Tristan Crozier (F),Brown University,26,6,9,15,0.58,23,-4
+444,Jonny Evans (F),University of Connecticut,34,6,9,15,0.44,14,-11
+445,Brett Abdelnour (LW),Army (U.S. Military Academy),34,6,9,15,0.44,21,-11
+446,John Beecher (C/LW),University of Michigan,34,6,9,15,0.44,41,3
+447,Jacques Bouquot (C/LW),University of Vermont,35,6,9,15,0.43,12,-2
+448,Lucas Mercuri (C/RW),UMass,36,6,9,15,0.42,18,1
+449,Pierson Brandon (D),Colgate University,37,6,9,15,0.41,18,1
+450,Cody Monds (RW/C),Providence College,32,5,10,15,0.47,8,6
+451,Lucas Vanroboys (C/RW),Bentley University,34,5,10,15,0.44,84,4
+452,Zac Herrmann (D),Niagara University,36,5,10,15,0.42,28,-19
+453,Jack Gorniak (LW/C),University of Wisconsin,37,5,10,15,0.41,14,-19
+454,Connor McMenamin (LW),Penn State University,38,5,10,15,0.39,25,9
+455,Will Zmolek (D),Bemidji State University,38,5,10,15,0.39,26,0
+456,Griffin Mendel (D),Quinnipiac University,42,5,10,15,0.36,14,18
+457,Nicklas Andrews (D),Colorado College,33,4,11,15,0.45,8,-8
+458,Matt Jennings (C),University of St. Thomas,35,4,11,15,0.43,24,-26
+459,Tim Theocharidis (D),Arizona State University,35,4,11,15,0.43,39,2
+460,Andrew DeCarlo (F),Air Force Academy,36,4,11,15,0.42,20,-1
+461,Josh McDougall (D),Mercyhurst University,39,3,12,15,0.38,2,-12
+462,Marshal Plunkett (D),Army (U.S. Military Academy),33,2,13,15,0.45,6,-3
+463,Ian Moore (D),Harvard University,35,2,13,15,0.43,10,16
+464,Christian Berger (D),Penn State University,38,2,13,15,0.39,6,-3
+465,Anthony Baxter (D),RPI (Rensselaer Polytech. Inst.),41,2,13,15,0.37,40,-4
+466,Chris Jandric (D),University of North Dakota,38,1,14,15,0.39,39,10
+467,Tyler Coffey (F),Colorado College,29,10,4,14,0.48,6,-9
+468,Sam Craggs (LW),Bowling Green State University,37,9,5,14,0.38,80,-4
+469,Carson Bantle (LW/RW),University of Wisconsin,27,8,6,14,0.52,28,-3
+470,Kyle Penney (C),Cornell University,32,8,6,14,0.44,8,3
+471,Josh Kosack (RW),Union College,37,8,6,14,0.38,12,-11
+472,Ryan Miotto (F),Canisius College,32,7,7,14,0.44,12,4
+473,Dustin Manz (C/RW),Lake Superior State University,34,7,7,14,0.41,10,-7
+474,John Keranen (F),Army (U.S. Military Academy),35,7,7,14,0.40,24,-12
+475,Travis Treloar (C),Ohio State University,36,7,7,14,0.39,4,1
+476,Grady Hobbs (RW/LW),RIT (Rochester Inst. of Tech.),38,7,7,14,0.37,14,0
+477,Alec Broetzman (LW),Michigan Tech,29,6,8,14,0.48,25,5
+478,Chris Grando (LW),Arizona State University,30,6,8,14,0.47,24,-6
+479,Jack Jensen (LW),Arizona State University,32,6,8,14,0.44,38,-5
+480,Julius Janhonen (C),American International College,33,6,8,14,0.42,4,4
+481,Jake Willets (D),Lake Superior State University,35,6,8,14,0.40,32,-2
+482,Nick Bruce (F),RIT (Rochester Inst. of Tech.),36,6,8,14,0.39,31,1
+483,McKade Webster (LW),University of Denver,39,6,8,14,0.36,19,13
+484,Jimmy Lambert (RW/C),University of Michigan,39,6,8,14,0.36,42,9
+485,Arnaud Vachon (C),Colgate University,40,6,8,14,0.35,55,-10
+486,Noah Kane (C),Mercyhurst University,26,5,9,14,0.54,8,-6
+487,Case McCarthy (D),Boston University,26,5,9,14,0.54,20,-2
+488,Ben Meehan (D),UMass-Lowell,33,5,9,14,0.42,54,8
+489,Jakub Sirota (D),University of Maine,26,4,10,14,0.54,10,0
+490,Aleksi Peltonen (F),St. Lawrence University,27,4,10,14,0.52,0,-2
+491,Ian Pierce (D),Dartmouth College,31,4,10,14,0.45,25,-5
+492,Robbie Stucker (D),University of Vermont,34,4,10,14,0.41,12,-24
+493,Sean Dhooghe (RW),Arizona State University,34,4,10,14,0.41,28,0
+494,Joseph Nardi (C/LW),Northern Michigan University,21,3,11,14,0.67,2,-9
+495,Stepan Pokorny (F),Ferris State University,31,3,11,14,0.45,16,-13
+496,Jayden Struble (D),Northeastern University,34,3,11,14,0.41,65,15
+497,Nash Nienhuis (D),Michigan State University,36,3,11,14,0.39,6,-7
+498,Mike Koster (D),University of Minnesota,36,3,11,14,0.39,10,15
+499,Guillaume Richard (D),Providence College,36,3,11,14,0.39,26,18
+500,Michael Callahan (D),Providence College,38,3,11,14,0.37,16,6
+501,Benton Maass (D),Minnesota State University (Mankato),42,3,11,14,0.33,14,20
+502,Brock Faber (D),University of Minnesota,32,2,12,14,0.44,12,8
+503,Matt Miller (RW),University of Nebraska-Omaha,30,10,3,13,0.43,14,4
+504,Michael Maloney (F),Brown University,31,10,3,13,0.42,18,-18
+505,Marshall Moise (F),Ferris State University,34,10,3,13,0.38,50,-13
+506,Tanner Laderoute (RW/C),University of Minnesota-Duluth,38,10,3,13,0.34,10,-3
+507,Paul Washe (C),Western Michigan University,19,8,5,13,0.68,12,6
+508,Ty Mueller (C),University of Nebraska-Omaha,24,8,5,13,0.54,2,-7
+509,Ian Carpentier (C),Yale University,26,8,5,13,0.50,23,1
+510,Joseph Dunlap (RW/C),Ohio State University,32,7,6,13,0.41,28,8
+511,Johnny Walker (RW),Arizona State University,23,6,7,13,0.57,18,0
+512,Jordan Biro (C),Colorado College,35,6,7,13,0.37,4,-8
+513,Mason Nevers (C),University of Minnesota,38,6,7,13,0.34,0,7
+514,Keenan Suthers (LW),University of Maine,30,5,8,13,0.43,23,-2
+515,Ethan Stewart (F),Ferris State University,30,5,8,13,0.43,23,-8
+516,Adam Robbins (F),Princeton University,31,5,8,13,0.42,2,-9
+517,Mark Cheremeta (LW),Ohio State University,33,5,8,13,0.39,8,15
+518,Nolan Welsh (F),Long Island University,33,5,8,13,0.39,12,-18
+519,Cameron Recchi (C/LW),University of St. Thomas,35,5,8,13,0.37,14,-34
+520,Logan Drevitch (LW),Merrimack College,35,5,8,13,0.37,18,-10
+521,Marshall Rifai (D),Harvard University,35,5,8,13,0.37,20,23
+522,Ryland Mosley (LW/RW),Michigan Tech,36,5,8,13,0.36,18,-4
+523,Alex DiPaolo (LW),Colgate University,31,4,9,13,0.42,33,9
+524,Philippe Chapleau (D),St. Lawrence University,36,4,9,13,0.36,2,2
+525,Jordan Power (D),Clarkson University,36,4,9,13,0.36,28,9
+526,John Beaton (C),RPI (Rensselaer Polytech. Inst.),41,4,9,13,0.32,8,-8
+527,Chase McLane (C/RW),Penn State University,30,3,10,13,0.43,22,0
+528,Luke Krys (D),Brown University,31,3,10,13,0.42,38,-30
+529,Nick Boyagian (F),Sacred Heart University,34,3,10,13,0.38,2,-14
+530,Andrew Lucas (D),University of Vermont,34,3,10,13,0.38,8,-5
+531,Harrison Rees (D),University of Connecticut,36,3,10,13,0.36,10,12
+532,Bo Hanson (D),Northern Michigan University,36,3,10,13,0.36,29,9
+533,Owen Norton (D),Mercyhurst University,36,3,10,13,0.36,52,-8
+534,Ryan Richardson (LW),Clarkson University,37,3,10,13,0.35,43,5
+535,Aaron Bohlinger (D),UMass,28,2,11,13,0.46,4,3
+536,Aidan Fulp (D),Western Michigan University,34,2,11,13,0.38,38,8
+537,Aiden Hansen-Bukata (D),RIT (Rochester Inst. of Tech.),38,2,11,13,0.34,10,4
+538,Elliott McDermott (D),Colgate University,40,2,11,13,0.33,22,9
+539,Brendon Michaelian (D),Ferris State University,34,1,12,13,0.38,10,-5
+540,T.J. Lloyd (D),Bowling Green State University,35,1,12,13,0.37,20,-5
+541,Eric Parker (D),Bowling Green State University,37,1,12,13,0.35,2,-7
+542,Jake Boltmann (D),University of Notre Dame,40,1,12,13,0.33,28,5
+543,Ryan Savage (RW),Miami University (Ohio),30,9,3,12,0.40,16,-7
+544,Todd Goehring (F),Sacred Heart University,36,9,3,12,0.33,10,-4
+545,Tyler Gratton (RW),Penn State University,37,9,3,12,0.32,24,-4
+546,Max Dorrington (RW/LW),St. Lawrence University,32,8,4,12,0.38,47,-8
+547,Robert Cronin (F),University of New Hampshire,30,7,5,12,0.40,16,-5
+548,Kyler Grundy (F),University of St. Thomas,31,7,5,12,0.39,14,-17
+549,Grant Loven (C),University of St. Thomas,35,7,5,12,0.34,18,-18
+550,Shane Sellar (F),RPI (Rensselaer Polytech. Inst.),39,7,5,12,0.31,10,-4
+551,Matt Hubbarde (C),Dartmouth College,22,6,6,12,0.55,4,-6
+552,Joe Cassetti (C/LW),Miami University (Ohio),25,6,6,12,0.48,19,-6
+553,Danny Pearson (F),Bentley University,27,6,6,12,0.44,17,4
+554,Patrick Guzzo (C),Ohio State University,31,6,6,12,0.39,16,9
+555,Marko Reifenberger (C),Mercyhurst University,32,6,6,12,0.38,21,4
+556,Zakary Karpa (C/LW),Harvard University,33,6,6,12,0.36,6,9
+557,Casey Carreau (C),Boston College,36,6,6,12,0.33,21,-10
+558,Luka Maver (C),American International College,38,6,6,12,0.32,16,0
+559,Wyatt Aamodt (D),Minnesota State University (Mankato),41,6,6,12,0.29,33,21
+560,Garrett Van Wyhe (C),University of Michigan,42,6,6,12,0.29,42,0
+561,Chase Dubois (F),University of Alaska-Fairbanks,26,5,7,12,0.46,2,-8
+562,Luke Orysiuk (D),Bentley University,26,5,7,12,0.46,24,-1
+563,Anthony Vincent (RW/C),College of the Holy Cross,31,5,7,12,0.39,21,0
+564,Kohei Sato (LW),Bentley University,31,5,7,12,0.39,26,-8
+565,Clayton Phillips (D),Penn State University,32,5,7,12,0.38,16,12
+566,Roman Ahcan (LW/C),University of Wisconsin,34,5,7,12,0.35,99,-12
+567,Ross Mitton (RW/LW),Colgate University,35,5,7,12,0.34,0,-9
+568,Matt Koopman (C/LW),Providence College,35,5,7,12,0.34,2,2
+569,William Lemay (C/LW),University of Vermont,35,5,7,12,0.34,2,-11
+570,Kirby Proctor (D),University of Nebraska-Omaha,37,5,7,12,0.32,20,8
+571,Christian Sarlo (F),Penn State University,38,5,7,12,0.32,16,-4
+572,Jack Perbix (RW/D),University of Minnesota,38,5,7,12,0.32,18,2
+573,Jeffrey Stewart (LW),Colgate University,40,5,7,12,0.30,41,-2
+574,Mickey Burns (LW),Mercyhurst University,23,4,8,12,0.52,2,2
+575,Jacob Schmidt-Svejstrup (RW),University of Maine,28,4,8,12,0.43,8,-1
+576,Mitchel Deelstra (LW/C),Ferris State University,28,4,8,12,0.43,22,-6
+577,Harrison Israels (C),University of Alaska-Fairbanks,29,4,8,12,0.41,14,6
+578,Cole Donhauser (C/W),Yale University,30,4,8,12,0.40,43,-3
+579,Blake Evennou (D),Ferris State University,36,4,8,12,0.33,28,-14
+580,Matt DeMelis (F),Northeastern University,39,4,8,12,0.31,2,6
+581,Josh Groll (C/LW),Minnesota State University (Mankato),40,4,8,12,0.30,4,12
+582,Griffin Loughran (F),Michigan State University,22,3,9,12,0.55,34,-8
+583,Mitch Machlitt (C),Army (U.S. Military Academy),26,3,9,12,0.46,4,-7
+584,Briggs Gammill (F),Yale University,27,3,9,12,0.44,18,-9
+585,Joey Musa (F),Dartmouth College,31,3,9,12,0.39,12,-5
+586,Geoff Kitt (C),Mercyhurst University,35,3,9,12,0.34,6,-2
+587,Michael Mancinelli (C),Arizona State University,30,2,10,12,0.40,6,-9
+588,Christian O'Neill (C),Princeton University,30,2,10,12,0.40,27,-4
+589,Riley Hughes (RW),Northeastern University,31,2,10,12,0.39,16,3
+590,Kristóf Papp (C),Michigan State University,34,2,10,12,0.35,8,-13
+591,John Gelatt (F),College of the Holy Cross,36,2,10,12,0.33,8,-4
+592,Samuli Niinisaari (D),Brown University,29,1,11,12,0.41,10,-5
+593,Danny Weight (C),Colorado College,32,1,11,12,0.38,41,-5
+594,Bryan Yoon (D),Colorado College,36,1,11,12,0.33,10,1
+595,Kalle Eriksson (D),University of New Hampshire,32,0,12,12,0.38,12,-21
+596,Jack Donato (F),Harvard University,34,8,3,11,0.32,6,3
+597,P.J. Marrocco (F),Long Island University,32,7,4,11,0.34,19,-7
+598,Jesse Jacques (F),University of Minnesota-Duluth,42,7,4,11,0.26,16,6
+599,Adam Dawe (RW/C),University of Maine,28,6,5,11,0.39,21,-11
+600,Ryan O'Reilly (W/C),Arizona State University,31,6,5,11,0.35,4,-9
+601,Jeff Losurdo (F),Dartmouth College,31,6,5,11,0.35,16,-9
+602,Max Kaufman (F),Boston University,34,6,5,11,0.32,12,5
+603,Tristan Broz (C/LW),University of Minnesota,36,6,5,11,0.31,10,5
+604,Andrew Rinaldi (LW),RIT (Rochester Inst. of Tech.),37,6,5,11,0.30,39,-8
+605,Kevin Lombardi (RW/LW),Sacred Heart University,18,5,6,11,0.61,6,8
+606,Kaleb Ergang (RW),Ferris State University,21,5,6,11,0.52,17,4
+607,Benito Posa (F),Lake Superior State University,26,5,6,11,0.42,24,-1
+608,Lars Christian Rødne (LW),Niagara University,30,5,6,11,0.37,4,-9
+609,Logan Cockerill (LW/RW),Boston University,30,5,6,11,0.37,8,-4
+610,William Zapernick (C/RW),University of Vermont,32,5,6,11,0.34,12,-4
+611,Jake Witkowski (F),Canisius College,32,5,6,11,0.34,14,6
+612,Jimmy Glynn (F),University of Nebraska-Omaha,33,5,6,11,0.33,29,5
+613,Brian Hawkinson (RW),Colorado College,35,5,6,11,0.31,10,-5
+614,Baker Shore (RW),Harvard University,35,5,6,11,0.31,22,3
+615,David Gucciardi (D),Michigan State University,36,5,6,11,0.31,22,-15
+616,Chase Yoder (C/W),Providence College,38,5,6,11,0.29,14,3
+617,Demetrios Koumontzis (LW/D),Arizona State University,23,4,7,11,0.48,18,7
+618,Nik Allain (F),Yale University,28,4,7,11,0.39,73,2
+619,Pito Walton (D),Princeton University,31,4,7,11,0.35,18,-19
+620,Nick Capone (RW),University of Connecticut,31,4,7,11,0.35,28,0
+621,Carson Musser (D),Long Island University,31,4,7,11,0.35,36,-11
+622,Nolan Renwick (RW/LW),University of Maine,33,4,7,11,0.33,14,-14
+623,Harrison Scott (C/LW),Bentley University,33,4,7,11,0.33,22,1
+624,Brendan Hamblet (F),Bentley University,35,4,7,11,0.31,14,-14
+625,Alec Cicero (F),College of the Holy Cross,35,4,7,11,0.31,23,-4
+626,Cole Krygier (D),Michigan State University,35,4,7,11,0.31,72,-9
+627,Sam Stange (RW),University of Wisconsin,37,4,7,11,0.30,6,-11
+628,Matt Slick (D),College of the Holy Cross,37,4,7,11,0.30,16,-10
+629,Luke Morgan (LW),University of Michigan,39,4,7,11,0.28,2,6
+630,Tommy Bergsland (D),Colgate University,40,4,7,11,0.28,33,15
+631,Justin Pearson (LW),Yale University,30,3,8,11,0.37,24,-13
+632,Cody Laskosky (C),RIT (Rochester Inst. of Tech.),32,3,8,11,0.34,22,-3
+633,Brian Chambers (RW),UMass-Lowell,33,3,8,11,0.33,10,7
+634,Trevor Zins (D),University of St. Thomas,35,3,8,11,0.31,18,-26
+635,Carter King (C/LW),University of Denver,36,3,8,11,0.31,2,5
+636,Mason Waite (D),St. Lawrence University,36,3,8,11,0.31,14,-19
+637,Ethan Edwards (D),University of Michigan,36,3,8,11,0.31,16,3
+638,Brian Kramer (D),American International College,36,3,8,11,0.31,32,16
+639,Mark Paolini (D),Princeton University,29,2,9,11,0.38,16,-7
+640,Ondrej Trejbal (D),St. Cloud State University,31,2,9,11,0.35,8,8
+641,Tim Rego (D),Cornell University,32,2,9,11,0.34,6,4
+642,Mark Estapa (F),University of Michigan,34,2,9,11,0.32,45,10
+643,Alex Peterson (F),College of the Holy Cross,35,2,9,11,0.31,34,-20
+644,Connor Kelley (D),University of Minnesota-Duluth,39,2,9,11,0.28,20,12
+645,Kyle Mayhew (D),University of Denver,40,2,9,11,0.28,19,16
+646,Carson Dyck (F),Penn State University,29,1,10,11,0.38,16,-2
+647,Justin Cole (F),American International College,32,1,10,11,0.34,4,3
+648,Jérémie Bucheler (D),Northeastern University,35,1,10,11,0.31,14,21
+649,Luke Mobley (F),Clarkson University,36,0,11,11,0.31,54,3
+650,Tyler Kleven (D),University of North Dakota,38,7,3,10,0.26,93,16
+651,Teddy Wooding (F),Yale University,24,6,4,10,0.42,2,-2
+652,Finn Evans (RW),Princeton University,24,6,4,10,0.42,15,0
+653,Luke Tuch (LW),Boston University,26,6,4,10,0.38,16,10
+654,Jaxon Nelson (C/RW),University of Minnesota,26,6,4,10,0.38,17,-4
+655,Danny DiGrande (C),Canisius College,30,6,4,10,0.33,42,-1
+656,Connor Gregga (F),Minnesota State University (Mankato),31,6,4,10,0.32,12,8
+657,Matt Choupani (C),Northeastern University,39,6,4,10,0.26,8,6
+658,Jack Olmstead (C/LW/RW),Miami University (Ohio),30,5,5,10,0.33,8,-11
+659,Tim Piechowski (RW),University of St. Thomas,32,5,5,10,0.31,8,-20
+660,Simon Jellus (C/LW),University of Vermont,32,5,5,10,0.31,14,-4
+661,Michael Hodge (F),Union College,34,5,5,10,0.29,12,-15
+662,Eric Cooley (RW/LW),Ohio State University,35,5,5,10,0.29,4,2
+663,Lucas Coon (F),Air Force Academy,36,5,5,10,0.28,10,-11
+664,Dominick Mersch (C),University of Wisconsin,37,5,5,10,0.27,43,-9
+665,Dawson Tritt (F),Lake Superior State University,33,4,6,10,0.30,14,2
+666,Eric Gotz (D),Michigan Tech,35,4,6,10,0.29,4,-6
+667,Brock Bremer (LW),University of Nebraska-Omaha,35,4,6,10,0.29,18,-8
+668,Paul Maust (LW),Mercyhurst University,37,4,6,10,0.27,26,-10
+669,Owen Cole (C),UMass-Lowell,22,3,7,10,0.45,0,6
+670,Noah De la Durantaye (D),Princeton University,28,3,7,10,0.36,8,-12
+671,Jake Harris (LW),Brown University,30,3,7,10,0.33,8,-8
+672,Ryan Lautenbach (RW/LW),UMass,31,3,7,10,0.32,2,-5
+673,Ethan Leyh (F),Quinnipiac University,31,3,7,10,0.32,24,10
+674,Troy Conzo (F),Sacred Heart University,33,3,7,10,0.30,10,9
+675,Will Riedell (D),Ohio State University,33,3,7,10,0.30,31,7
+676,Dylan Moulton (D),Miami University (Ohio),34,3,7,10,0.29,18,-12
+677,Jackson Jutting (F),Colorado College,35,3,7,10,0.29,12,-1
+678,Chris Pappas (C),St. Lawrence University,26,2,8,10,0.38,6,-2
+679,Joe Leahy (D),University of Vermont,27,2,8,10,0.37,12,3
+680,Matt Koethe (F),University of Alaska-Fairbanks,30,2,8,10,0.33,20,5
+681,Jake Flynn (D),University of Connecticut,31,2,8,10,0.32,12,-2
+682,Harrison Markell (D),Dartmouth College,32,2,8,10,0.31,8,-6
+683,Justin Janicke (LW/C),University of Notre Dame,33,2,8,10,0.30,31,6
+684,Patrick Cozzi (RW),Colorado College,35,2,8,10,0.29,4,-6
+685,Colin Felix (D),UMass,36,2,8,10,0.28,30,-3
+686,Luc Salem (D),St. Lawrence University,37,2,8,10,0.27,14,-13
+687,Michael Karow (D),Michigan Tech,37,2,8,10,0.27,26,12
+688,Darian Gotz (D),University of Minnesota-Duluth,42,2,8,10,0.24,34,9
+689,Nicholas Zabaneh (C/LW),Boston University,30,1,9,10,0.33,14,-2
+690,Jon McDonald (D),UMass-Lowell,35,1,9,10,0.29,10,3
+691,Nolan Sawchuk (D),University of St. Thomas,36,1,9,10,0.28,10,-28
+692,Nate Knoepke (D),University of Nebraska-Omaha,38,1,9,10,0.26,14,8
+693,Ryan O'Connell (D),Ohio State University,30,0,10,10,0.33,10,12
+694,Isac Jonsson (D),UMass-Lowell,33,0,10,10,0.30,4,14
+695,Hunter Sansbury (D),Sacred Heart University,36,0,10,10,0.28,18,2
+696,Cullen Ferguson (D),Union College,37,0,10,10,0.27,22,-10
+697,Gavin Hain (C/LW),University of North Dakota,18,6,3,9,0.50,18,-4
+698,Hampus Rydqvist (D),Miami University (Ohio),28,6,3,9,0.32,14,0
+699,Will Dineen (LW/RW),Yale University,22,5,4,9,0.41,21,-15
+700,Ethan Scardina (C),Bowling Green State University,27,5,4,9,0.33,8,-8
+701,Jake Joffe (RW),RIT (Rochester Inst. of Tech.),34,5,4,9,0.26,10,-10
+702,Jordan Steinmetz (F),St. Lawrence University,35,5,4,9,0.26,26,-7
+703,Chrystopher Collin (C/LW),Bowling Green State University,20,4,5,9,0.45,75,3
+704,Brett Chorske (C/RW),Colorado College,21,4,5,9,0.43,10,-6
+705,Jack Quinn (F),Long Island University,28,4,5,9,0.32,21,0
+706,Chase Bradley (LW/C),University of Connecticut,29,4,5,9,0.31,14,5
+707,Thomas Daskas (F),Miami University (Ohio),29,4,5,9,0.31,16,-5
+708,Reilly Connors (C/RW),Yale University,30,4,5,9,0.30,33,0
+709,Zack Bross (F),Long Island University,31,4,5,9,0.29,14,-5
+710,Zach Kaiser (C/LW),UMass-Lowell,33,4,5,9,0.27,12,9
+711,Nic Belpedio (D),Colgate University,36,4,5,9,0.25,16,1
+712,Steven Ipri (F),Mercyhurst University,21,3,6,9,0.43,41,-8
+713,Joe Sofo (F),University of St. Thomas,24,3,6,9,0.38,2,-13
+714,Michael Regush (C),Miami University (Ohio),24,3,6,9,0.38,16,-13
+715,Conner Hutchison (D),Sacred Heart University,25,3,6,9,0.36,8,-1
+716,Matt Copponi (C),Merrimack College,25,3,6,9,0.36,14,0
+717,Mike Posma (C/LW),Boston College,28,3,6,9,0.32,27,-9
+718,Adam Pitters (F),Bowling Green State University,30,3,6,9,0.30,28,-7
+719,Nick Seitz (F),Princeton University,31,3,6,9,0.29,14,-5
+720,Josh Luedtke (D),St. Cloud State University,33,3,6,9,0.27,16,17
+721,Roberts Kalkis (D),University of Alaska-Fairbanks,33,3,6,9,0.27,33,-14
+722,Jake Durflinger (RW/C),Merrimack College,34,3,6,9,0.26,18,-4
+723,Mitchell Oliver (D),Lake Superior State University,35,3,6,9,0.26,48,-5
+724,Carter Loney (C),University of Minnesota-Duluth,42,3,6,9,0.21,17,4
+725,Joey Matthews (D),Canisius College,28,2,7,9,0.32,6,-8
+726,Brett Bliss (D),Brown University,30,2,7,9,0.30,18,-11
+727,Josef Mysak (D),Niagara University,32,2,7,9,0.28,18,-4
+728,Jacob Felker (F),Army (U.S. Military Academy),35,2,7,9,0.26,2,2
+729,Jacob Quillan (C/LW),Quinnipiac University,36,2,7,9,0.25,24,10
+730,Rourke Russell (D),Sacred Heart University,36,2,7,9,0.25,26,-6
+731,Cooper Moore (D),University of North Dakota,38,2,7,9,0.24,49,2
+732,Cory Babichuk (D),University of Vermont,22,1,8,9,0.41,25,-10
+733,Andrew Garby (D),Army (U.S. Military Academy),23,1,8,9,0.39,10,-4
+734,Justin Ertel (LW/RW),Cornell University,23,1,8,9,0.39,10,5
+735,Jordan Di Cicco (D),Long Island University,29,1,8,9,0.31,12,-4
+736,James Marooney (D),Ohio State University,31,1,8,9,0.29,33,14
+737,Liam Malmquist (F),University of Wisconsin,35,1,8,9,0.26,4,-11
+738,Antti Tuomisto (D),University of Denver,35,1,8,9,0.26,21,20
+739,Ty Farmer (D),UMass,36,1,8,9,0.25,24,14
+740,Tommy Miller (D),Northeastern University,39,1,8,9,0.23,12,5
+741,Jack Judson (D),Arizona State University,31,0,9,9,0.29,18,5
+742,Eamon Powell (D),Boston College,38,0,9,9,0.24,4,4
+743,Grayson Constable (F),College of the Holy Cross,32,7,1,8,0.25,23,-10
+744,Carter Randklev (F),Niagara University,22,6,2,8,0.36,2,3
+745,Mac Welsher (C),Merrimack College,32,6,2,8,0.25,10,1
+746,Timo Bakos (F),Lake Superior State University,35,6,2,8,0.23,0,0
+747,Jere Väisänen (F),Bemidji State University,37,6,2,8,0.22,8,-7
+748,Joey Molenaar (F),St. Cloud State University,33,5,3,8,0.24,19,-6
+749,Reilly Moran (F),St. Lawrence University,33,5,3,8,0.24,38,-10
+750,Jake Transit (F),Ferris State University,16,4,4,8,0.50,22,-8
+751,J.D. Pogue (LW),Canisius College,17,4,4,8,0.47,12,4
+752,Max Balinson (D),Long Island University,17,4,4,8,0.47,19,-2
+753,Brian Carrabes (F),Boston University,24,4,4,8,0.33,4,4
+754,Isaiah Fox (F),Long Island University,28,4,4,8,0.29,58,-8
+755,Graham Lillibridge (D),Yale University,30,4,4,8,0.27,4,-15
+756,Cameron Buhl (F),St. Lawrence University,32,4,4,8,0.25,12,-4
+757,Ryan O'Hara (LW),Bowling Green State University,33,4,4,8,0.24,12,-3
+758,Alex Adams (F),Bemidji State University,36,4,4,8,0.22,6,1
+759,Michael Higgins (D),College of the Holy Cross,36,4,4,8,0.22,23,-5
+760,Michael Gildon (C/LW),Ohio State University,16,3,5,8,0.50,6,3
+761,Owen Farris (C),Union College,22,3,5,8,0.36,12,-2
+762,Henry Wagner (LW),Yale University,24,3,5,8,0.33,8,-4
+763,Blake Wells (F),UMass-Lowell,29,3,5,8,0.28,20,11
+764,Simon Gravel (C/RW),Canisius College,31,3,5,8,0.26,4,-5
+765,Caden Villegas (F),Union College,32,3,5,8,0.25,10,11
+766,Josh Boyer (C),St. Lawrence University,32,3,5,8,0.25,16,-1
+767,Jack Cameron (D),Dartmouth College,32,3,5,8,0.25,31,-1
+768,Brandon Stanley (F),Niagara University,33,3,5,8,0.24,32,-12
+769,Dante Palecco (LW),Sacred Heart University,34,3,5,8,0.24,2,1
+770,Luke Reid (D),University of New Hampshire,34,3,5,8,0.24,18,-16
+771,Isak Walther (RW),University of Vermont,35,3,5,8,0.23,6,-14
+772,Jason Pineo (C),Niagara University,35,3,5,8,0.23,14,-10
+773,Austin Schwartz (F),Air Force Academy,36,3,5,8,0.22,10,1
+774,Monte Graham (F),Miami University (Ohio),36,3,5,8,0.22,30,-13
+775,Gianfranco Cassaro (D),RIT (Rochester Inst. of Tech.),38,3,5,8,0.21,29,-9
+776,Kyle Looft (D),Bemidji State University,39,3,5,8,0.21,46,-4
+777,Marcus Chorney (D),Quinnipiac University,42,3,5,8,0.19,12,15
+778,Phil Knies (LW/C),Bentley University,10,2,6,8,0.80,2,-2
+779,Jordan Seyfert (C),Merrimack College,20,2,6,8,0.40,2,1
+780,Cooper Haar (LW),Canisius College,21,2,6,8,0.38,6,-2
+781,Dylan Herzog (D),Yale University,23,2,6,8,0.35,4,3
+782,Kimball Johnson (D),University of St. Thomas,23,2,6,8,0.35,12,-17
+783,Marty Westhaver (F),Long Island University,24,2,6,8,0.33,6,-5
+784,Jonny Tychonick (D),University of Nebraska-Omaha,24,2,6,8,0.33,19,-6
+785,Harrison Blaisdell (C),University of New Hampshire,25,2,6,8,0.32,6,-7
+786,Brett Callahan (D),American International College,25,2,6,8,0.32,10,9
+787,Parker Revering (D),American International College,25,2,6,8,0.32,25,0
+788,Zach Krajnik (C),Minnesota State University (Mankato),26,2,6,8,0.31,14,4
+789,Chad Hillebrand (LW/C),Western Michigan University,27,2,6,8,0.30,10,3
+790,Ashton Fry (F),St. Lawrence University,27,2,6,8,0.30,18,1
+791,Xander Lamppa (F),Penn State University,29,2,6,8,0.28,2,-9
+792,Paul McAvoy (F),Colgate University,29,2,6,8,0.28,12,-5
+793,Joe Cipollone (C),University of New Hampshire,30,2,6,8,0.27,0,3
+794,Brehdan Engum (D),UMass-Lowell,32,2,6,8,0.25,39,13
+795,Austin Wong (RW/C),Harvard University,32,2,6,8,0.25,46,6
+796,Dakota Raabe (LW),Sacred Heart University,34,2,6,8,0.24,2,-8
+797,Joshua Wildauer (C),Lake Superior State University,34,2,6,8,0.24,12,2
+798,Jonny Hill (D),Niagara University,36,2,6,8,0.22,33,-8
+799,Jagger Joshua (LW/RW),Michigan State University,36,2,6,8,0.22,68,-12
+800,Christian Krygier (D),Michigan State University,36,2,6,8,0.22,79,-12
+801,Paul DeNaples (D),Penn State University,38,2,6,8,0.21,29,12
+802,Devon Daniels (D),Mercyhurst University,38,2,6,8,0.21,29,-1
+803,Bradley Johnson (D),Bemidji State University,39,2,6,8,0.21,53,-2
+804,Lauri Sertti (D),RPI (Rensselaer Polytech. Inst.),40,2,6,8,0.20,59,-7
+805,Jacob Pivonka (C),University of Notre Dame,25,1,7,8,0.32,4,2
+806,Sam Hesler (F),Dartmouth College,26,1,7,8,0.31,14,-7
+807,Luke Edgerton (F),Niagara University,28,1,7,8,0.29,6,-7
+808,Nick Nardella (RW),Michigan Tech,29,1,7,8,0.28,6,-3
+809,Alex Vlasic (D),Boston University,32,1,7,8,0.25,31,3
+810,Alex Gagne (D),University of New Hampshire,33,1,7,8,0.24,16,-3
+811,Tyrell Buckley (D),Michigan Tech,33,1,7,8,0.24,22,8
+812,Eric MacAdams (RW),University of New Hampshire,33,1,7,8,0.24,42,1
+813,Arvils Bergmanis (D),University of Alaska-Fairbanks,34,1,7,8,0.24,26,10
+814,Jordan Muzzillo (D),University of Alaska-Fairbanks,34,1,7,8,0.24,44,10
+815,Carter Berger (D),University of Connecticut,35,1,7,8,0.23,16,8
+816,Jack Clement (D),Miami University (Ohio),36,1,7,8,0.22,18,-18
+817,Aidan Hreschuk (D),Boston College,37,1,7,8,0.22,23,9
+818,Ben Brinkman (D),University of Minnesota,37,1,7,8,0.22,23,7
+819,Hank Kempf (D),Cornell University,32,0,8,8,0.25,6,8
+820,Uula Ruikka (D),Providence College,32,0,8,8,0.25,12,7
+821,Cédric Fiedler (D),Western Michigan University,39,0,8,8,0.21,26,0
+822,Chase Pletzke (C),Miami University (Ohio),31,7,0,7,0.23,16,-16
+823,Matthew Fawcett (LW),University of Maine,20,5,2,7,0.35,8,-8
+824,Max Johnson (C),University of Wisconsin,31,5,2,7,0.23,2,-15
+825,Sam Stevens (C/LW),Boston University,31,5,2,7,0.23,14,0
+826,Nick Campoli (C),Clarkson University,34,5,2,7,0.21,10,2
+827,Brian Adams (F),Air Force Academy,36,5,2,7,0.19,10,-6
+828,Nick Nardecchia (RW),Ferris State University,25,4,3,7,0.28,20,-2
+829,Jakob Lee (C),RPI (Rensselaer Polytech. Inst.),27,4,3,7,0.26,25,-1
+830,Adrien Bisson (D),University of Maine,30,4,3,7,0.23,14,-8
+831,Ty Naaykens (F),St. Lawrence University,32,4,3,7,0.22,10,-3
+832,Christian Gorscak (F),Niagara University,35,4,3,7,0.20,19,-14
+833,Ty Murchison (D),Arizona State University,35,4,3,7,0.20,76,5
+834,Zach Urdahl (LW/RW),University of Wisconsin,36,4,3,7,0.19,4,-16
+835,Brenden Rons (D),Ferris State University,36,4,3,7,0.19,16,-11
+836,Nicholas Cafarelli (F),University of New Hampshire,15,3,4,7,0.47,6,1
+837,Filip Karlsson Tägtström (C),Merrimack College,18,3,4,7,0.39,2,9
+838,Cooper Connell (F),Bentley University,22,3,4,7,0.32,2,-2
+839,Tyler Ghirardosi (F),College of the Holy Cross,23,3,4,7,0.30,34,-16
+840,Austen Long (RW/C),American International College,24,3,4,7,0.29,12,6
+841,Benjamin Tupker (LW),Cornell University,26,3,4,7,0.27,6,4
+842,Tommy Pasanen (D),Clarkson University,28,3,4,7,0.25,12,16
+843,Carter Long (D),University of Vermont,29,3,4,7,0.24,8,-11
+844,Benji Eckerle (F),Arizona State University,29,3,4,7,0.24,10,-2
+845,Markuss Komuls (D),University of Alaska-Fairbanks,31,3,4,7,0.23,4,-1
+846,Nathan Plessis (F),Brown University,31,3,4,7,0.23,16,-3
+847,Zach Faremouth (F),Ferris State University,32,3,4,7,0.22,48,0
+848,Mason Salquist (F),St. Cloud State University,34,3,4,7,0.21,4,0
+849,Jarrod Gourley (D),University of Connecticut,35,3,4,7,0.20,14,5
+850,Roman Kinal (D),University of Connecticut,36,3,4,7,0.19,24,10
+851,Adam Pilewicz (D),Penn State University,38,3,4,7,0.18,8,-6
+852,Cam McDonald (D),Providence College,38,3,4,7,0.18,20,1
+853,David Ma (D),Princeton University,18,2,5,7,0.39,14,0
+854,Matthew Allen (C),Union College,25,2,5,7,0.28,6,0
+855,Adam Tisdale (C),Sacred Heart University,27,2,5,7,0.26,4,2
+856,Bennett Zmolek (D),Minnesota State University (Mankato),28,2,5,7,0.25,8,12
+857,Davis Pennington (D),University of Nebraska-Omaha,30,2,5,7,0.23,20,5
+858,Tim Makowski (D),St. Lawrence University,31,2,5,7,0.23,37,4
+859,Ethan Gauer (D),University of St. Thomas,32,2,5,7,0.22,26,-10
+860,Jacob Marti (F),Air Force Academy,33,2,5,7,0.21,58,-11
+861,Chase Brand (C),St. Cloud State University,35,2,5,7,0.20,4,-5
+862,Michael Underwood (D),Clarkson University,35,2,5,7,0.20,26,6
+863,Jesper Peltonen (D),University of Wisconsin,36,2,5,7,0.19,6,-17
+864,Nick Portz (F),University of North Dakota,39,2,5,7,0.18,18,-4
+865,Kyle Hallbauer (D),RPI (Rensselaer Polytech. Inst.),39,2,5,7,0.18,25,-8
+866,Matt Anderson (D),University of Minnesota-Duluth,42,2,5,7,0.17,31,-2
+867,Michael Zuffante (F),Bentley University,18,1,6,7,0.39,6,-6
+868,Ryan Verrier (D),University of New Hampshire,24,1,6,7,0.29,28,-3
+869,Caleb Hite (F),University of Alaska-Fairbanks,29,1,6,7,0.24,6,-3
+870,Drew Cooper (D),Ferris State University,29,1,6,7,0.24,10,-4
+871,Zach Tupker (C),Cornell University,32,1,6,7,0.22,8,-1
+872,Jordan Wishman (D),Niagara University,32,1,6,7,0.22,16,-2
+873,Bennett Norlin (F),Air Force Academy,36,1,6,7,0.19,4,-7
+874,Jack Zielinski (D),Niagara University,36,1,6,7,0.19,31,-1
+875,Sam Knoblauch (RW),UMass-Lowell,19,0,7,7,0.37,2,6
+876,Andrew Quetell (D),Army (U.S. Military Academy),31,0,7,7,0.23,14,4
+877,Simon Mack (D),Penn State University,37,0,7,7,0.19,14,1
+878,Logan Ganie (LW),Michigan Tech,22,5,1,6,0.27,6,0
+879,Mack Byers (LW),Northern Michigan University,26,5,1,6,0.23,17,2
+880,Steven Townley (F),Dartmouth College,24,4,2,6,0.25,4,-7
+881,Liam Izyk (F),Boston College,24,4,2,6,0.25,10,-4
+882,Jacob Dirks (F),Ferris State University,25,4,2,6,0.24,6,-1
+883,Matthew Kellenberger (D),Princeton University,25,4,2,6,0.24,16,-8
+884,Kyler Head (F),Mercyhurst University,18,3,3,6,0.33,11,-2
+885,Connor Mylymok (RW/LW),University of Alaska-Fairbanks,18,3,3,6,0.33,32,5
+886,Simon Falk (RW),University of Alaska-Fairbanks,22,3,3,6,0.27,6,1
+887,Michael Sacco (F),Army (U.S. Military Academy),23,3,3,6,0.26,8,-3
+888,Preston Brodziak (F),Long Island University,23,3,3,6,0.26,19,0
+889,Eriks Zohovs (C),University of Alaska-Fairbanks,24,3,3,6,0.25,17,-2
+890,Christian Sanda (F),Union College,24,3,3,6,0.25,25,-4
+891,Payton Matsui (F),University of Alaska-Fairbanks,26,3,3,6,0.23,6,-3
+892,Porter Schachle (F),University of Vermont,27,3,3,6,0.22,14,-2
+893,Ryan Sorkin (F),Dartmouth College,28,3,3,6,0.21,6,-2
+894,Marek Korencik (D),UMass-Lowell,28,3,3,6,0.21,14,5
+895,Liam Gorman (C),Princeton University,28,3,3,6,0.21,16,-12
+896,Blake Bride (RW),Air Force Academy,31,3,3,6,0.19,11,-1
+897,Jackson Kunz (LW),University of North Dakota,31,3,3,6,0.19,31,0
+898,Joel Määttä (C),University of Vermont,32,3,3,6,0.19,16,-4
+899,Rory Herrman (F),RPI (Rensselaer Polytech. Inst.),33,3,3,6,0.18,6,-2
+900,Ville Immonen (C),Union College,37,3,3,6,0.16,12,-12
+901,Elijah Gonsalves (RW/C),RIT (Rochester Inst. of Tech.),15,2,4,6,0.40,8,-5
+902,Sam Skinner (D),Ferris State University,18,2,4,6,0.33,6,0
+903,Dominic Vidoli (D),Ohio State University,19,2,4,6,0.32,6,6
+904,Jack Cronin (RW),Princeton University,23,2,4,6,0.26,12,-8
+905,Brian Hurley (D),Clarkson University,24,2,4,6,0.25,4,6
+906,Coby Mack (D),Army (U.S. Military Academy),25,2,4,6,0.24,23,-4
+907,Luke Bast (D),University of North Dakota,26,2,4,6,0.23,4,-3
+908,Parker Saretsky (F),Michigan Tech,29,2,4,6,0.21,8,1
+909,Carson Albrecht (RW),University of North Dakota,29,2,4,6,0.21,8,3
+910,Kieran O'Hearn (D),Yale University,29,2,4,6,0.21,33,5
+911,Luke Keenan (C),Princeton University,31,2,4,6,0.19,12,-20
+912,Spencer Schneider (F),Bowling Green State University,32,2,4,6,0.19,0,-6
+913,Eric Faith (LW),UMass,32,2,4,6,0.19,6,0
+914,Raimonds Vitolins (C),University of Vermont,32,2,4,6,0.19,23,-9
+915,Caden Brown (C),University of Wisconsin,33,2,4,6,0.18,2,-14
+916,Julian Kislin (D),Northeastern University,34,2,4,6,0.18,14,-3
+917,Dustyn McFaul (D),Clarkson University,34,2,4,6,0.18,24,-1
+918,Luke Loheit (RW),University of Minnesota-Duluth,34,2,4,6,0.18,34,-2
+919,Ryan Wheeler (D/F),University of Connecticut,36,2,4,6,0.17,6,4
+920,Griffin Ness (F),University of North Dakota,36,2,4,6,0.17,23,2
+921,Mike Faulkner (D),Niagara University,11,1,5,6,0.55,2,0
+922,Mick Messner (LW),Merrimack College,21,1,5,6,0.29,4,4
+923,Jamie Rome (F),Western Michigan University,22,1,5,6,0.27,8,9
+924,Chase Foley (D),Colorado College,23,1,5,6,0.26,18,-3
+925,Luke Farthing (D),Ferris State University,24,1,5,6,0.25,6,0
+926,Matthew Thom (D),Princeton University,26,1,5,6,0.23,10,-5
+927,Jamie Armstrong (LW/RW),Boston University,26,1,5,6,0.23,12,6
+928,Nick Unruh (F),Dartmouth College,27,1,5,6,0.22,4,-12
+929,Will MacKinnon (D),University of New Hampshire,27,1,5,6,0.22,12,-1
+930,Nicolas Petruolo (D),Union College,27,1,5,6,0.22,26,1
+931,Nolan Krenzen (D),University of Nebraska-Omaha,30,1,5,6,0.20,8,8
+932,Cody Haiskanen (D),Cornell University,30,1,5,6,0.20,14,4
+933,Nikolai Jenson (D),University of New Hampshire,30,1,5,6,0.20,18,3
+934,Noah Wilson (D),Army (U.S. Military Academy),30,1,5,6,0.20,30,-3
+935,Brayden Krieger (F),Bowling Green State University,31,1,5,6,0.19,4,-13
+936,Sebastian Dirven (D),Cornell University,31,1,5,6,0.19,33,5
+937,Connor Mayer (D),Colorado College,32,1,5,6,0.19,24,-1
+938,Jack Millar (D),Colorado College,36,1,5,6,0.17,8,-4
+939,Nicolas Müller (C/RW),Michigan State University,36,1,5,6,0.17,18,-12
+940,Brendan Bushy (D),St. Cloud State University,36,1,5,6,0.17,21,4
+941,Joshua Ess (D),University of Wisconsin,37,1,5,6,0.16,4,-25
+942,Caleb Moretz (RW/C),RIT (Rochester Inst. of Tech.),38,1,5,6,0.16,16,-14
+943,Daniel Hilsendager (D),Western Michigan University,39,1,5,6,0.15,10,8
+944,Hunter Lellig (D),University of Minnesota-Duluth,41,1,5,6,0.15,6,7
+945,Carl Fish (D),University of Minnesota,21,0,6,6,0.29,4,6
+946,Jack Quinlivan (F),University of Maine,30,0,6,6,0.20,16,-9
+947,Jack Bar (D),Harvard University,33,0,6,6,0.18,32,-1
+948,Ethan Roswell (D),Bentley University,34,0,6,6,0.18,4,0
+949,Evan Stella (D),American International College,36,0,6,6,0.17,20,10
+950,Dylan Lugris (F),Penn State University,17,4,1,5,0.29,4,0
+951,Rylan Van Unen (F),Northern Michigan University,18,4,1,5,0.28,31,3
+952,Nik Armstrong-Kingcade (F),UMass-Lowell,27,4,1,5,0.19,8,2
+953,Bobby Young (C),College of the Holy Cross,31,4,1,5,0.16,12,0
+954,Chase Stevenson (F),University of New Hampshire,33,4,1,5,0.15,16,-4
+955,Eric Linell (C/RW),Bentley University,34,4,1,5,0.15,8,-10
+956,Connor Caponi (F),University of Denver,36,4,1,5,0.14,37,7
+957,Eric Huss (F),Army (U.S. Military Academy),14,3,2,5,0.36,4,4
+958,Hunter Johannes (LW),American International College,14,3,2,5,0.36,4,1
+959,Evan Dougherty (RW),Bowling Green State University,15,3,2,5,0.33,17,-4
+960,Kendrick Frost (LW),Army (U.S. Military Academy),21,3,2,5,0.24,8,-2
+961,Andrew Seaman (F),Union College,23,3,2,5,0.22,4,-1
+962,Thomas Manty (F),Brown University,25,3,2,5,0.20,4,-6
+963,Colin Doyle (C),University of Alaska-Fairbanks,25,3,2,5,0.20,33,3
+964,Jordan Tonelli (C/LW),Brown University,26,3,2,5,0.19,14,-13
+965,Oliver MacDonald (F),UMass,27,3,2,5,0.19,6,3
+966,Jaedon Leslie (F),Ohio State University,28,3,2,5,0.18,8,9
+967,Tanner Kelly (F),Michigan State University,34,3,2,5,0.15,8,-12
+968,Oscar Geschwind (F),Northern Michigan University,15,2,3,5,0.33,2,4
+969,Ben Almquist (F),University of Minnesota-Duluth,18,2,3,5,0.28,4,4
+970,Christopher Konin (F),Army (U.S. Military Academy),19,2,3,5,0.26,6,1
+971,Cole Quisenberry (F),Brown University,19,2,3,5,0.26,6,-10
+972,Zack Nazzarett (LW),Long Island University,22,2,3,5,0.23,12,-3
+973,Cole Craft (RW),Lake Superior State University,23,2,3,5,0.22,27,-4
+974,Jordan Sandhu (C),Arizona State University,26,2,3,5,0.19,2,2
+975,Jack Brackett (F),RPI (Rensselaer Polytech. Inst.),26,2,3,5,0.19,6,1
+976,Mackenzie Merriman (F),Princeton University,26,2,3,5,0.19,6,-12
+977,Gustav Müller (C/LW),Long Island University,26,2,3,5,0.19,8,-4
+978,Antonio Venuto (RW),Ferris State University,28,2,3,5,0.18,14,-10
+979,Matt Argentina (C),Boston College,29,2,3,5,0.17,44,-8
+980,Nate Schweitzer (D),Colorado College,31,2,3,5,0.16,14,-11
+981,Joey Abate (LW/RW),University of Nebraska-Omaha,32,2,3,5,0.16,54,4
+982,Tucker McIntosh (D),St. Lawrence University,35,2,3,5,0.14,25,-5
+983,Tommy Middleton (F),Colorado College,35,2,3,5,0.14,32,-3
+984,Mason Klee (D),RPI (Rensselaer Polytech. Inst.),36,2,3,5,0.14,14,-12
+985,Patrick Dawson (D),Sacred Heart University,37,2,3,5,0.14,35,-5
+986,Tim Washe (C/LW),Western Michigan University,39,2,3,5,0.13,16,-2
+987,Derek Osik (C),Long Island University,14,1,4,5,0.36,4,4
+988,Eric Otto (F),American International College,19,1,4,5,0.26,10,-1
+989,Aaron Myers (F),Bemidji State University,21,1,4,5,0.24,2,1
+990,Ty Amonte (RW),Boston University,22,1,4,5,0.23,18,1
+991,Brenden MacLaren (F),Ferris State University,23,1,4,5,0.22,27,-5
+992,Alec Capstick (D),Miami University (Ohio),23,1,4,5,0.22,29,-5
+993,Nico Somerville (D),American International College,24,1,4,5,0.21,12,7
+994,Patrick Smyth (F),Army (U.S. Military Academy),25,1,4,5,0.20,6,1
+995,Ethan Szmagaj (D),Arizona State University,25,1,4,5,0.20,32,-8
+996,Kenny Johnson (D),Penn State University,31,1,4,5,0.16,46,3
+997,Tanner Main (D),Bentley University,32,1,4,5,0.16,14,1
+998,Olivier Gauthier (LW),Niagara University,33,1,4,5,0.15,10,-11
+999,Jacob Bauer (D),Western Michigan University,33,1,4,5,0.15,10,7
+1000,Garrett Klee (F),Northern Michigan University,33,1,4,5,0.15,16,-9
+1001,Jake Beaune (D),Mercyhurst University,35,1,4,5,0.14,16,-1
+1002,Dimitri Mikrogiannakis (D),RIT (Rochester Inst. of Tech.),36,1,4,5,0.14,33,5
+1003,Max Coyle (D),Bowling Green State University,36,1,4,5,0.14,43,-15
+1004,Jack Agnew (D),RPI (Rensselaer Polytech. Inst.),41,1,4,5,0.12,8,4
+1005,Steve Holtz (D),University of Michigan,11,0,5,5,0.45,33,8
+1006,Carter Ekberg (D),Long Island University,27,0,5,5,0.19,14,-3
+1007,Ben Schultheis (D),Ferris State University,28,0,5,5,0.18,20,-10
+1008,Joseph Campolieto (D),Boston University,29,0,5,5,0.17,6,3
+1009,Brendan Walkom (C/LW),Bentley University,31,0,5,5,0.16,6,-8
+1010,Luke Albert (D),Brown University,31,0,5,5,0.16,29,-5
+1011,Lincoln Erne (D),Canisius College,32,0,5,5,0.16,48,7
+1012,William Magnuson (D),Bemidji State University,34,0,5,5,0.15,4,3
+1013,Arvid Henrikson (D),Lake Superior State University,35,0,5,5,0.14,56,-8
+1014,Davis Bunz (D),Providence College,38,0,5,5,0.13,20,-1
+1015,Victor Mancini (D),University of Nebraska-Omaha,38,0,5,5,0.13,26,-5
+1016,Iivari Räsänen (D),Quinnipiac University,40,0,5,5,0.13,16,16
+1017,Christopher Klack (C/W),Clarkson University,31,4,0,4,0.13,16,4
+1018,Jonny Sorenson (F),University of Minnesota,37,4,0,4,0.11,4,1
+1019,Philippe Lapointe (F),University of Michigan,11,3,1,4,0.36,4,2
+1020,Ben Mirageas (D),Providence College,16,3,1,4,0.25,21,1
+1021,Jakob Breault (C),University of Alaska-Fairbanks,18,3,1,4,0.22,42,-9
+1022,Hugh Larkin (RW),Western Michigan University,19,3,1,4,0.21,6,1
+1023,Kyler Kovich (LW),Cornell University,19,3,1,4,0.21,8,6
+1024,Michael Citara (RW),Providence College,28,3,1,4,0.14,6,-3
+1025,Samuel Solenský (C/RW),Bemidji State University,29,3,1,4,0.14,6,-4
+1026,Tanner Vescio (D),Northern Michigan University,35,3,1,4,0.11,26,-10
+1027,Anton Malmström (D),Bowling Green State University,36,3,1,4,0.11,23,-8
+1028,Nolan Sullivan (F),University of Nebraska-Omaha,37,3,1,4,0.11,34,-6
+1029,Randy Hernández (RW),Canisius College,10,2,2,4,0.40,2,-4
+1030,Matt Quercia (C/LW),Michigan Tech,14,2,2,4,0.29,8,3
+1031,Jakub Lewandowski (F),Bemidji State University,18,2,2,4,0.22,6,2
+1032,Ben Raymond (C/LW),Colgate University,20,2,2,4,0.20,2,0
+1033,Liam Connors (F),College of the Holy Cross,22,2,2,4,0.18,6,1
+1034,Christian Felton (D),Merrimack College,27,2,2,4,0.15,16,2
+1035,Nick Trela (F),St. Lawrence University,28,2,2,4,0.14,6,-9
+1036,Zachary Plucinski (D),University of Notre Dame,32,2,2,4,0.13,18,1
+1037,Ryan Sullivan (F),UMass,33,2,2,4,0.12,4,-4
+1038,Ryder Donovan (C/RW),University of Wisconsin,34,2,2,4,0.12,28,-5
+1039,Adam Goodsir (F),Michigan State University,36,2,2,4,0.11,39,-9
+1040,Tucker Hodgson (D),Bentley University,36,2,2,4,0.11,45,3
+1041,Jackson Munro (D),Brown University,16,1,3,4,0.25,31,-5
+1042,Will Margel (W/C),University of New Hampshire,18,1,3,4,0.22,6,-3
+1043,George Grannis (F),Clarkson University,18,1,3,4,0.22,10,3
+1044,Nick Granowicz (C/RW),University of Michigan,19,1,3,4,0.21,8,1
+1045,Adam Arvedson (D),Merrimack College,19,1,3,4,0.21,10,-5
+1046,Matt Sutton (F),Brown University,22,1,3,4,0.18,2,-10
+1047,Dawson Bruneski (D),University of Maine,22,1,3,4,0.18,30,-9
+1048,Alex Esposito (RW),Providence College,23,1,3,4,0.17,6,0
+1049,Hudson Lambert (D),Canisius College,24,1,3,4,0.17,12,-2
+1050,Ryan Carmichael (D/F),Yale University,28,1,3,4,0.14,6,-10
+1051,Michael Young (D),Yale University,28,1,3,4,0.14,8,0
+1052,Tanner Andrew (C),RIT (Rochester Inst. of Tech.),29,1,3,4,0.14,0,-8
+1053,Connor Marritt (F),Northern Michigan University,29,1,3,4,0.14,8,-8
+1054,Craig Needham (C),Providence College,30,1,3,4,0.13,6,4
+1055,Jake Higgins (D),College of the Holy Cross,33,1,3,4,0.12,20,-4
+1056,Jackson MacNab (RW),College of the Holy Cross,35,1,3,4,0.11,6,-6
+1057,Luke Robinson (D),Air Force Academy,36,1,3,4,0.11,37,-5
+1058,Ryan McGuire (C/RW),Colgate University,37,1,3,4,0.11,29,-8
+1059,Samuel Duerr (D),University of Maine,10,0,4,4,0.40,4,-2
+1060,Matthew Cassidy (RW),Ohio State University,12,0,4,4,0.33,21,4
+1061,Jeremy Gervais (D),Lake Superior State University,16,0,4,4,0.25,10,-1
+1062,Christophe Fillion (F),Quinnipiac University,19,0,4,4,0.21,6,2
+1063,Jonny Mulera (F),University of Maine,20,0,4,4,0.20,2,-2
+1064,Alex Konovalov (F),Princeton University,22,0,4,4,0.18,6,-3
+1065,John Sladic (F),Miami University (Ohio),24,0,4,4,0.17,2,-7
+1066,Derek Hamelin (D),Canisius College,24,0,4,4,0.17,8,-1
+1067,Luke Erickson (D),St. Lawrence University,25,0,4,4,0.16,16,-5
+1068,Kaelan Taylor (D),Clarkson University,26,0,4,4,0.15,8,2
+1069,Cody Schiavon (D),University of Vermont,27,0,4,4,0.15,2,-2
+1070,Keaton Pehrson (D),University of Michigan,27,0,4,4,0.15,21,10
+1071,Jesse Pomeroy (D),Niagara University,28,0,4,4,0.14,12,-6
+1072,Brady Ferner (D),University of North Dakota,29,0,4,4,0.14,6,3
+1073,Jacob Wilson (D),Arizona State University,31,0,4,4,0.13,66,1
+1074,Matt Staudacher (D),University of Minnesota,33,0,4,4,0.12,35,4
+1075,Mathew Shatsky (D),College of the Holy Cross,34,0,4,4,0.12,2,3
+1076,A.J. Hodges (LW),Michigan State University,34,0,4,4,0.12,4,-8
+1077,Artyom Borshyov (D),Lake Superior State University,35,0,4,4,0.11,10,0
+1078,Michael Bevilacqua (D),Mercyhurst University,35,0,4,4,0.11,44,4
+1079,Ben Wozney (D),Bowling Green State University,36,0,4,4,0.11,12,-18
+1080,Ryan Nicholson (D),RIT (Rochester Inst. of Tech.),36,0,4,4,0.11,45,-2
+1081,Jackson Niedermayer (LW),Arizona State University,19,3,0,3,0.16,4,-4
+1082,Levi Glasman (LW),Colgate University,24,3,0,3,0.13,22,-7
+1083,Eric Esposito (LW),University of New Hampshire,30,3,0,3,0.10,14,1
+1084,Hugo Esselin (C),Merrimack College,8,2,1,3,0.38,0,3
+1085,Regan Kimens (LW),Merrimack College,10,2,1,3,0.30,8,0
+1086,Daine Dubois (F),Long Island University,14,2,1,3,0.21,2,-6
+1087,Brayden Nicholetts (F),University of Alaska-Fairbanks,15,2,1,3,0.20,10,1
+1088,Gleb Murtazin (RW),Union College,16,2,1,3,0.19,12,-2
+1089,Tyler Boucher (RW/LW),Boston University,17,2,1,3,0.18,34,-6
+1090,Hunter McCoy (F),Army (U.S. Military Academy),18,2,1,3,0.17,4,-3
+1091,Mike Kennedy (D),Princeton University,18,2,1,3,0.17,6,-7
+1092,Liam Motley (F),Cornell University,21,2,1,3,0.14,19,-1
+1093,Ray Christy (F),Colorado College,21,2,1,3,0.14,21,-4
+1094,Timofei Spitserov (RW),University of Vermont,22,2,1,3,0.14,4,-5
+1095,A.J. Drobot (RW),University of Maine,23,2,1,3,0.13,6,-3
+1096,Brent Johnson (D),University of North Dakota,23,2,1,3,0.13,12,-4
+1097,Blaine Warnert (F),University of St. Thomas,26,2,1,3,0.12,8,-12
+1098,Kyle Johnson (F),Yale University,30,2,1,3,0.10,19,-4
+1099,Dylan Wendt (RW/C),Western Michigan University,34,2,1,3,0.09,4,-1
+1100,Cory Thomas (D),Canisius College,34,2,1,3,0.09,39,3
+1101,Seth Fyten (F),Bowling Green State University,35,2,1,3,0.09,43,-13
+1102,Sam Renlund (F),University of St. Thomas,7,1,2,3,0.43,10,-7
+1103,Mark Hillier (F),Merrimack College,13,1,2,3,0.23,2,0
+1104,Lucas McGregor (F),University of St. Thomas,13,1,2,3,0.23,4,-2
+1105,Ryan Nolan (F),Merrimack College,15,1,2,3,0.20,6,-1
+1106,Jake Veilleux (D/F),University of Connecticut,16,1,2,3,0.19,0,1
+1107,Dane Montgomery (D/RW),University of North Dakota,16,1,2,3,0.19,2,1
+1108,Isaac MacLeod (RW),St. Lawrence University,16,1,2,3,0.19,8,-7
+1109,Quinton Ong (RW),Yale University,17,1,2,3,0.18,4,-10
+1110,Tristan Amonte (F),Boston University,17,1,2,3,0.18,10,1
+1111,Matt Baker (C),UMass,19,1,2,3,0.16,6,-2
+1112,James Crossman (D),Brown University,19,1,2,3,0.16,14,-9
+1113,Sasha Teleguine (F),University of Connecticut,20,1,2,3,0.15,4,4
+1114,Michael Ufberg (D),Princeton University,20,1,2,3,0.15,4,-9
+1115,Dallas Comeau (W/C),University of Vermont,21,1,2,3,0.14,2,-5
+1116,Drake Usher (D),Air Force Academy,21,1,2,3,0.14,6,3
+1117,Stanislav Demin (D),UMass,22,1,2,3,0.14,4,-6
+1118,Mitchell Mattson (C),Michigan State University,23,1,2,3,0.13,16,-7
+1119,Cole Hanson (F),Colgate University,24,1,2,3,0.13,6,-3
+1120,Alton McDermott (RW),Canisius College,25,1,2,3,0.12,4,1
+1121,Jordan Schulting (D),UMass-Lowell,25,1,2,3,0.12,4,4
+1122,Austin Jouppi (F),Bemidji State University,25,1,2,3,0.12,8,0
+1123,Noah Prokop (C),Colorado College,26,1,2,3,0.12,59,-1
+1124,Cam Donaldson (C),UMass,27,1,2,3,0.11,4,0
+1125,Tyrone Bronte (RW),Michigan Tech,27,1,2,3,0.11,6,-5
+1126,Trevor LeDonne (D),University of St. Thomas,27,1,2,3,0.11,26,-10
+1127,Brandon Tabakin (D),Yale University,28,1,2,3,0.11,4,-9
+1128,Daniel Laatsch (D),University of Wisconsin,28,1,2,3,0.11,4,-8
+1129,Brett Roloson (F),Lake Superior State University,29,1,2,3,0.10,0,-4
+1130,Nico DeVita (D),Ferris State University,29,1,2,3,0.10,10,-2
+1131,Mike Van Unen (D),Northern Michigan University,32,1,2,3,0.09,49,-8
+1132,John Schuldt (D),University of St. Thomas,32,1,2,3,0.09,51,-13
+1133,Andrew Kangas (F),University of St. Thomas,33,1,2,3,0.09,10,-14
+1134,Anthony Kehrer (D),University of Wisconsin,36,1,2,3,0.08,10,-16
+1135,Tyler Jubenvill (D),Bemidji State University,39,1,2,3,0.08,31,4
+1136,Santeri Hartikainen (C/RW),American International College,6,0,3,3,0.50,0,-3
+1137,Will Cullen (D),Miami University (Ohio),7,0,3,3,0.43,8,-4
+1138,Dylan Jackson (RW),Northeastern University,8,0,3,3,0.38,0,1
+1139,Bram Scheerer (LW),Union College,8,0,3,3,0.38,25,0
+1140,Brett Willits (C),Northern Michigan University,12,0,3,3,0.25,0,-3
+1141,Keegan Langefels (D),Canisius College,13,0,3,3,0.23,0,2
+1142,Cristophe Tellier (LW/C),Quinnipiac University,13,0,3,3,0.23,21,6
+1143,Dylan Witzke (F/D),Dartmouth College,15,0,3,3,0.20,2,-6
+1144,Dustin Geregach (D),Mercyhurst University,16,0,3,3,0.19,4,-6
+1145,Nick Donato (D),Miami University (Ohio),16,0,3,3,0.19,22,-5
+1146,Tim Erkkila (D),Northern Michigan University,19,0,3,3,0.16,4,2
+1147,Liam Watson-Brawn (D),Colgate University,20,0,3,3,0.15,10,-2
+1148,John Gormley (D),Long Island University,21,0,3,3,0.14,6,-5
+1149,Tristan Poissant (F),University of Maine,23,0,3,3,0.13,4,-5
+1150,Sam Sternschein (LW),Boston College,24,0,3,3,0.13,21,-7
+1151,Lynden Grandberg (F),Brown University,26,0,3,3,0.12,4,-9
+1152,Connor Sullivan (D),Yale University,28,0,3,3,0.11,10,-2
+1153,Wyatt Schlaht (F),Brown University,28,0,3,3,0.11,16,-21
+1154,Ryan Conroy (D),Yale University,29,0,3,3,0.10,14,-10
+1155,Nathan Kelly (D),Union College,32,0,3,3,0.09,6,-10
+1156,Luca Münzenberger (D),University of Vermont,32,0,3,3,0.09,45,-17
+1157,Cameron Spicer (D),University of Maine,33,0,3,3,0.09,8,-12
+1158,Chris Lipe (D),Michigan Tech,34,0,3,3,0.09,6,-2
+1159,Connor Joyce (C),Boston College,35,0,3,3,0.09,2,-8
+1160,Ryan Sidorski (D),Union College,35,0,3,3,0.09,22,-14
+1161,Justin Wells (D),Boston College,37,0,3,3,0.08,4,-4
+1162,Spencer Berry (D),RIT (Rochester Inst. of Tech.),38,0,3,3,0.08,34,-1
+1163,Keanan Stewart (F),Mercyhurst University,7,2,0,2,0.29,2,1
+1164,Ty Pochipinski (F),Air Force Academy,7,2,0,2,0.29,6,0
+1165,Adam Conquest (RW),Bowling Green State University,10,2,0,2,0.20,4,-5
+1166,Josh Waters (F),Dartmouth College,12,2,0,2,0.17,4,-2
+1167,Josh Bohlin (F),Army (U.S. Military Academy),16,2,0,2,0.13,2,1
+1168,Ethan Harrison (F),Bentley University,19,2,0,2,0.11,2,-1
+1169,Jamie Collins (F),Clarkson University,20,2,0,2,0.10,4,-2
+1170,Jack DeBoer (C),Niagara University,21,2,0,2,0.10,10,-10
+1171,Kyler Kleven (C),University of Minnesota-Duluth,27,2,0,2,0.07,6,-1
+1172,Aaron Swanson (F),University of St. Thomas,34,2,0,2,0.06,43,-16
+1173,Nolan McElhaney (D),Long Island University,4,1,1,2,0.50,2,1
+1174,Will Hillman (F),Minnesota State University (Mankato),5,1,1,2,0.40,0,4
+1175,Jake Harrison (D),University of Nebraska-Omaha,7,1,1,2,0.29,0,3
+1176,Brad Morrissey (RW),University of Maine,7,1,1,2,0.29,0,-4
+1177,Tomas Mazura (C),Providence College,8,1,1,2,0.25,2,0
+1178,Martin Sundberg (RW),University of Nebraska-Omaha,9,1,1,2,0.22,2,0
+1179,Luke Mylymok (W/C),University of Minnesota-Duluth,10,1,1,2,0.20,4,-2
+1180,James McIsaac (C/RW),RPI (Rensselaer Polytech. Inst.),11,1,1,2,0.18,0,0
+1181,Brian Silver (D),Miami University (Ohio),11,1,1,2,0.18,6,-1
+1182,Jack O'Leary (F),Cornell University,11,1,1,2,0.18,19,3
+1183,Aaron Grounds (F),American International College,15,1,1,2,0.13,4,3
+1184,C.J. McGee (D),Quinnipiac University,15,1,1,2,0.13,6,3
+1185,Niclas Puikkonen (W/C),Canisius College,15,1,1,2,0.13,6,0
+1186,Kristaps Jakobsons (D),University of Alaska-Fairbanks,16,1,1,2,0.13,8,3
+1187,Tyler Williams (C),Lake Superior State University,19,1,1,2,0.11,0,-4
+1188,Ryan Stevens (F),Yale University,19,1,1,2,0.11,2,-1
+1189,Cameron Gendron (F),University of New Hampshire,19,1,1,2,0.11,14,-7
+1190,Jake Gagnon (RW),RPI (Rensselaer Polytech. Inst.),20,1,1,2,0.10,0,-7
+1191,Sullivan Mack (C/LW),Cornell University,20,1,1,2,0.10,4,-3
+1192,Reid Irwin (D/C),University of Denver,20,1,1,2,0.10,15,10
+1193,Jake Crespi (D),Michigan Tech,21,1,1,2,0.10,2,-1
+1194,Matthew Rickard (D),American International College,21,1,1,2,0.10,12,3
+1195,Dylan Schuett (C),Long Island University,21,1,1,2,0.10,25,-2
+1196,Erik Urbank (RW),Dartmouth College,23,1,1,2,0.09,6,-5
+1197,Wyllum Deveaux (F),Harvard University,25,1,1,2,0.08,8,-1
+1198,John Fusco (D),Harvard University,26,1,1,2,0.08,8,-1
+1199,Joe Berg (F),Princeton University,28,1,1,2,0.07,13,-14
+1200,Nic Hamre (LW),University of Vermont,31,1,1,2,0.06,4,-4
+1201,Aiden Gallacher (D),Michigan State University,32,1,1,2,0.06,8,-11
+1202,Andrew Petrucci (C),RIT (Rochester Inst. of Tech.),35,1,1,2,0.06,8,-8
+1203,Ryan St. Louis (LW),Northeastern University,38,1,1,2,0.05,6,-2
+1204,Dalton Messina (F),Ohio State University,3,0,2,2,0.67,0,2
+1205,Jacob Franczak (C),Long Island University,6,0,2,2,0.33,4,-1
+1206,Dylan Davies (D/F),RPI (Rensselaer Polytech. Inst.),8,0,2,2,0.25,6,-3
+1207,Wyatt Head (D),Mercyhurst University,8,0,2,2,0.25,6,0
+1208,Logan Ommen (F),University of St. Thomas,9,0,2,2,0.22,2,-3
+1209,Tim Gould (D),University of Maine,11,0,2,2,0.18,0,-3
+1210,Ivan Zivlak (D),Merrimack College,12,0,2,2,0.17,2,4
+1211,Brady Ziemer (D),St. Cloud State University,12,0,2,2,0.17,4,2
+1212,Jack Dempsey (F),Boston College,12,0,2,2,0.17,4,-1
+1213,Trevor Adams (F),Union College,13,0,2,2,0.15,4,0
+1214,Tony Stillwell (D),Quinnipiac University,14,0,2,2,0.14,2,4
+1215,Willie Knierim (RW),Arizona State University,15,0,2,2,0.13,4,0
+1216,Bray Crowder (D),Miami University (Ohio),15,0,2,2,0.13,17,-11
+1217,Luke Mountain (F),University of Vermont,16,0,2,2,0.13,8,-2
+1218,Riley Murphy (F),University of Alaska-Fairbanks,16,0,2,2,0.13,22,1
+1219,Alex Bates (D),Sacred Heart University,19,0,2,2,0.11,0,2
+1220,Garrett Dahm (F),Mercyhurst University,22,0,2,2,0.09,8,-6
+1221,Trym Løkkeberg (C),Dartmouth College,23,0,2,2,0.09,6,-8
+1222,Ethan Martini (D),Long Island University,23,0,2,2,0.09,48,-5
+1223,Robby Drazner (D),Miami University (Ohio),25,0,2,2,0.08,8,-1
+1224,Jett Jungels (F),Northern Michigan University,25,0,2,2,0.08,17,-1
+1225,Scott Corbett (C),Miami University (Ohio),25,0,2,2,0.08,20,-12
+1226,Tyler Inamoto (D),University of Wisconsin,26,0,2,2,0.08,26,-14
+1227,Jack Summers (D),University of Michigan,26,0,2,2,0.08,37,4
+1228,Alex Mella (LW),Northeastern University,28,0,2,2,0.07,0,3
+1229,Simon Butala (D),University of Maine,28,0,2,2,0.07,20,-16
+1230,Anthony Stark (D),Colgate University,29,0,2,2,0.07,10,-3
+1231,Kyle Aucoin (D),Harvard University,30,0,2,2,0.07,10,-1
+1232,Cade Webber (D),Boston University,31,0,2,2,0.06,8,7
+1233,Mitch Andres (D),Boston College,32,0,2,2,0.06,0,-7
+1234,Liam Dennison (D),Merrimack College,32,0,2,2,0.06,10,-7
+1235,Garrett Daly (D),Bowling Green State University,34,0,2,2,0.06,6,-1
+1236,Tyler Spott (D),Northeastern University,37,0,2,2,0.05,12,4
+1237,Louie Roehl (D),University of Minnesota-Duluth,38,0,2,2,0.05,44,-5
+1238,Jordan Robert (F),Clarkson University,2,1,0,1,0.50,0,0
+1239,Matt Allen (F),UMass-Lowell,3,1,0,1,0.33,0,-1
+1240,Cam Knuble (F),Western Michigan University,6,1,0,1,0.17,0,2
+1241,Tyler Carpenter (F),University of Notre Dame,6,1,0,1,0.17,0,1
+1242,Reid Leibold (F),RPI (Rensselaer Polytech. Inst.),6,1,0,1,0.17,6,2
+1243,Tanner Edwards (LW/C),Minnesota State University (Mankato),6,1,0,1,0.17,34,1
+1244,Garrett Devine (F),Providence College,7,1,0,1,0.14,2,-1
+1245,Connor Zilisch (F),Canisius College,8,1,0,1,0.13,2,0
+1246,Nick Bochen (D),Quinnipiac University,9,1,0,1,0.11,0,1
+1247,Owen Lindmark (C/RW),University of Wisconsin,9,1,0,1,0.11,2,-1
+1248,Scooter Brickey (D),Western Michigan University,10,1,0,1,0.10,0,1
+1249,Rhett Kingston (LW),Western Michigan University,10,1,0,1,0.10,6,-2
+1250,Tom Richter (F),Union College,11,1,0,1,0.09,0,-2
+1251,Diarmad DiMurro (D),RIT (Rochester Inst. of Tech.),11,1,0,1,0.09,2,-1
+1252,Stefan Owens (F),UMass-Lowell,13,1,0,1,0.08,0,-2
+1253,Dovar Tinling (C),University of Vermont,14,1,0,1,0.07,4,-5
+1254,Jay Keranen (D),University of Michigan,15,1,0,1,0.07,17,-3
+1255,Will Arquiett (F),St. Lawrence University,15,1,0,1,0.07,18,-5
+1256,Michael Ryan (D),Union College,16,1,0,1,0.06,0,-3
+1257,Marc Pasemko (F),Colorado College,16,1,0,1,0.06,6,-4
+1258,Taylor Makar (LW/C),UMass,17,1,0,1,0.06,12,-4
+1259,Jesper Tarkiainen (RW),University of Vermont,19,1,0,1,0.05,0,-4
+1260,Andrew Kruse (D),Air Force Academy,22,1,0,1,0.05,0,0
+1261,Tyler Campbell (C),Dartmouth College,22,1,0,1,0.05,4,-14
+1262,Brendan Budy (LW),University of North Dakota,22,1,0,1,0.05,6,-4
+1263,Edward Lindelöw (C),University of Maine,23,1,0,1,0.04,17,-3
+1264,Michael Outzen (F),Northeastern University,24,1,0,1,0.04,4,0
+1265,Gentry Shamburger (F),Boston College,29,1,0,1,0.03,4,-7
+1266,Jerry Harding (F),UMass,30,1,0,1,0.03,2,1
+1267,Jonny Russell (RW),Brown University,30,1,0,1,0.03,18,-15
+1268,Hugo Blixt (D),Colorado College,31,1,0,1,0.03,16,-8
+1269,Roberts Blugers (LW/RW),University of Alaska-Fairbanks,2,0,1,1,0.50,0,1
+1270,Evan Miller (C),RIT (Rochester Inst. of Tech.),2,0,1,1,0.50,2,-1
+1271,Josh Latta (F),UMass-Lowell,3,0,1,1,0.33,0,1
+1272,Dante Spagnuolo (C),Mercyhurst University,3,0,1,1,0.33,0,2
+1273,Sam Rossini (D),University of Minnesota,3,0,1,1,0.33,0,1
+1274,Jason Brancheau (F),Ferris State University,4,0,1,1,0.25,0,-2
+1275,Lane Krenzen (D),University of Denver,4,0,1,1,0.25,4,3
+1276,Tanner Hopps (F/D),Long Island University,5,0,1,1,0.20,0,0
+1277,Jeppe Urup Mogensen (D),Sacred Heart University,5,0,1,1,0.20,0,-1
+1278,Matt McKim (LW),University of Alaska-Fairbanks,6,0,1,1,0.17,0,0
+1279,Donte Lawson (F),Bemidji State University,6,0,1,1,0.17,0,-1
+1280,Will Schlagenhauf (F),Bentley University,6,0,1,1,0.17,2,1
+1281,Grant Docter (D),Michigan Tech,6,0,1,1,0.17,4,-1
+1282,Dalton Hunter (RW/LW),Mercyhurst University,6,0,1,1,0.17,6,0
+1283,C.J. Regula (D),Ohio State University,7,0,1,1,0.14,6,0
+1284,John DeRoche (D/F),Northeastern University,8,0,1,1,0.13,0,0
+1285,Braden Doyle (D),Boston University,8,0,1,1,0.13,0,0
+1286,Christian Jimenez (D),Harvard University,8,0,1,1,0.13,0,0
+1287,Jason Smallidge (D),University of Nebraska-Omaha,8,0,1,1,0.13,4,1
+1288,Brody Medeiros (D),Army (U.S. Military Academy),9,0,1,1,0.11,0,1
+1289,Ryan Doolin (F),Sacred Heart University,9,0,1,1,0.11,2,-1
+1290,Jarrett Lee (F),University of Minnesota-Duluth,9,0,1,1,0.11,4,1
+1291,Hunter Toale (D),Bentley University,9,0,1,1,0.11,8,-1
+1292,Robert McCollum (D),Long Island University,9,0,1,1,0.11,16,2
+1293,Colin Schmidt (C),University of Minnesota,10,0,1,1,0.10,0,-3
+1294,Cade Alami (D),Boston College,10,0,1,1,0.10,2,-2
+1295,Joe Winkelmann (C),Bentley University,11,0,1,1,0.09,0,-3
+1296,Brenden Olson (D),Minnesota State University (Mankato),12,0,1,1,0.08,6,-1
+1297,Noah Jordan (RW),University of Vermont,13,0,1,1,0.08,0,-2
+1298,Tyrell Boucher (D),Northern Michigan University,13,0,1,1,0.08,2,0
+1299,Colton Trumbla (LW),RIT (Rochester Inst. of Tech.),13,0,1,1,0.08,4,-2
+1300,Lucas Jaycox (D),St. Cloud State University,13,0,1,1,0.08,10,-2
+1301,P.J. Garrett (D),Colgate University,13,0,1,1,0.08,12,-7
+1302,Charlie Raith (D),University of Notre Dame,14,0,1,1,0.07,0,7
+1303,John Wojciechowski (C),University of Connecticut,14,0,1,1,0.07,0,1
+1304,Phip Waugh (D/C),Mercyhurst University,14,0,1,1,0.07,2,-2
+1305,Carter Jones (F),Bemidji State University,15,0,1,1,0.07,0,-3
+1306,Taige Harding (D),Providence College,15,0,1,1,0.07,6,1
+1307,Dante Fantauzzi (D),Sacred Heart University,15,0,1,1,0.07,12,-3
+1308,Logan Ritchie (F),St. Lawrence University,16,0,1,1,0.06,0,-2
+1309,Dominic Dockery (D),University of Maine,17,0,1,1,0.06,0,-9
+1310,Hayden Rowan (LW),Yale University,17,0,1,1,0.06,0,-7
+1311,Tony Malinowski (D),Minnesota State University (Mankato),17,0,1,1,0.06,8,5
+1312,John Copeland (F/D),Boston University,18,0,1,1,0.06,2,-1
+1313,Justin Kelley (F),University of St. Thomas,18,0,1,1,0.06,2,-11
+1314,Marco Bozzo (C),Northeastern University,19,0,1,1,0.05,2,2
+1315,Aidan Spellacy (F),St. Cloud State University,19,0,1,1,0.05,4,0
+1316,Kaden Bohlsen (C),University of Nebraska-Omaha,19,0,1,1,0.05,6,0
+1317,Drake Burgin (D),St. Lawrence University,21,0,1,1,0.05,4,-6
+1318,Tim Clifton (C),Sacred Heart University,21,0,1,1,0.05,4,-7
+1319,Mike Brown (D),Merrimack College,21,0,1,1,0.05,6,-1
+1320,Owen Ozar (F),University of Denver,21,0,1,1,0.05,6,-1
+1321,Nick Carabin (D),Princeton University,21,0,1,1,0.05,12,-12
+1322,Vincent Weis (D),University of St. Thomas,21,0,1,1,0.05,22,-19
+1323,Nick Bowman (F),RPI (Rensselaer Polytech. Inst.),22,0,1,1,0.05,8,-10
+1324,Lucas Herrmann (F),University of New Hampshire,24,0,1,1,0.04,8,-7
+1325,Jeff Clarke (D),St. Lawrence University,24,0,1,1,0.04,12,-4
+1326,Paul Schmid (F),University of St. Thomas,25,0,1,1,0.04,11,-17
+1327,Michael Ferrandino (D),University of St. Thomas,26,0,1,1,0.04,0,-17
+1328,Kyle Haskins (C),Michigan State University,28,0,1,1,0.04,17,-13
+1329,Nate Morgan (F),Dartmouth College,29,0,1,1,0.03,6,-15
+1330,Tyler Borsch (D),Dartmouth College,30,0,1,1,0.03,8,-14
+1331,Sean Keohan (D),Dartmouth College,30,0,1,1,0.03,22,-6
+1332,Tony Andreozzi (D),Brown University,31,0,1,1,0.03,6,-15
+1333,Jacob Semik (D),Arizona State University,34,0,1,1,0.03,6,1
+1334,Ryan Helliwell (D),University of Notre Dame,36,0,1,1,0.03,24,-2
+1335,Jimmy Rayhill (D),Cornell University,0,0,0,0,0.00,0,0
+1336,Eric DeDobbelaer (C/RW),UMass,0,0,0,0,0.00,0,0
+1337,Mark Mahoney (D),St. Lawrence University,0,0,0,0,0.00,0,0
+1338,Matteo Pecchia (LW),Western Michigan University,0,0,0,0,0.00,0,0
+1339,Dan McIntyre (C),Cornell University,0,0,0,0,0.00,0,0
+1340,Carver Watson (D),Mercyhurst University,0,0,0,0,0.00,0,0
+1341,Casey Staum (D),Colorado College,0,0,0,0,0.00,0,0
+1342,Michael Graham (F),University of Notre Dame,0,0,0,0,0.00,0,0
+1343,Kyle Koopman (D),Providence College,0,0,0,0,0.00,0,0
+1344,Justin Smith (D),Ferris State University,0,0,0,0,0.00,0,0
+1345,Reed Robinson (F),Niagara University,0,0,0,0,0.00,0,0
+1346,Caden Lewandowski (D),Clarkson University,0,0,0,0,0.00,0,0
+1347,Christian LeSueur (RW),Dartmouth College,0,0,0,0,0.00,0,0
+1348,Hunter Weiss (D),University of Notre Dame,0,0,0,0,0.00,0,0
+1349,Matt Cameron (F),Niagara University,0,0,0,0,0.00,0,0
+1350,Noah Weber (F),University of Minnesota,0,0,0,0,0.00,0,0
+1351,Marcus Pedersen (RW/LW),Michigan Tech,0,0,0,0,0.00,0,0
+1352,Matty Holmes (F),Brown University,0,0,0,0,0.00,0,0
+1353,Nicholas Wildgoose (RW),St. Lawrence University,0,0,0,0,0.00,0,0
+1354,A.J. Villella (D),Bentley University,0,0,0,0,0.00,0,0
+1355,Brad Zona (D),Army (U.S. Military Academy),0,0,0,0,0.00,0,0
+1356,Brady MacDonald (D),Dartmouth College,0,0,0,0,0.00,0,0
+1357,Jack Babbage (D),Quinnipiac University,0,0,0,0,0.00,0,0
+1358,Brian Kelly (D),University of Vermont,0,0,0,0,0.00,0,0
+1359,Brady Meyer (C),University of Minnesota-Duluth,0,0,0,0,0.00,0,0
+1360,Matt Kinash (F),UMass-Lowell,0,0,0,0,0.00,0,0
+1361,Gregory Lapointe (F),St. Lawrence University,0,0,0,0,0.00,0,0
+1362,Ryan Rosborough (F),St. Cloud State University,0,0,0,0,0.00,0,0
+1363,John Murray (D),Harvard University,0,0,0,0,0.00,0,0
+1364,Brad Belisle (C),Bemidji State University,0,0,0,0,0.00,0,0
+1365,Dorian Dawson (D),Brown University,0,0,0,0,0.00,0,0
+1366,Austin O'Rourke (F),UMass-Lowell,0,0,0,0,0.00,0,0
+1367,Jarred White (C),Western Michigan University,0,0,0,0,0.00,0,0
+1368,Travis Kothenbeutel (F),University of Nebraska-Omaha,0,0,0,0,0.00,0,0
+1369,Caleb Rule (F),Miami University (Ohio),0,0,0,0,0.00,0,0
+1370,Christopher Berger (LW),Michigan State University,0,0,0,0,0.00,0,0
+1371,Alex Truscott (F),Niagara University,0,0,0,0,0.00,0,0
+1372,Joey Maziarz (D),Mercyhurst University,0,0,0,0,0.00,0,0
+1373,Trevor Poeze (C),Niagara University,0,0,0,0,0.00,0,0
+1374,Nick Grimaldi (F),Ferris State University,0,0,0,0,0.00,0,0
+1375,Aaron White (F),Long Island University,0,0,0,0,0.00,0,0
+1376,Trevor Bishop (F),Western Michigan University,0,0,0,0,0.00,0,0
+1377,Erkka Vänskä (F),College of the Holy Cross,0,0,0,0,0.00,0,0
+1378,Gavin Puskar (F),University of Connecticut,0,0,0,0,0.00,0,0
+1379,Mike Vorlicky (D),University of Wisconsin,0,0,0,0,0.00,0,0
+1380,Alexander Nordstrom (F),Michigan Tech,0,0,0,0,0.00,0,0
+1381,Ryan Pineault (D),College of the Holy Cross,0,0,0,0,0.00,0,0
+1382,Levi Stauber (F),Michigan Tech,0,0,0,0,0.00,0,0
+1383,Jack Johnston (F),St. Cloud State University,0,0,0,0,0.00,0,0
+1384,Cade Kowalski (C/RW),Ferris State University,0,0,0,0,0.00,0,0
+1385,Jed Pietila (D),Michigan Tech,0,0,0,0,0.00,0,0
+1386,Xan Gurney (D),Western Michigan University,0,0,0,0,0.00,0,0
+1387,Cal Dybicz (D),Michigan State University,0,0,0,0,0.00,0,0
+1388,Colby Bukes (D),Merrimack College,0,0,0,0,0.00,0,0
+1389,Jordan Venegoni (F),Lake Superior State University,0,0,0,0,0.00,0,0
+1390,Theodor Pistek (RW/LW),UMass-Lowell,1,0,0,0,0.00,0,0
+1391,Alec Semandel (D),University of New Hampshire,1,0,0,0,0.00,0,0
+1392,Jack Hoey (C),Colgate University,1,0,0,0,0.00,0,-1
+1393,Tanner Hickey (D),Arizona State University,1,0,0,0,0.00,0,1
+1394,Cameron Babiak (D),Bowling Green State University,1,0,0,0,0.00,0,0
+1395,Michal Stínil (LW/RW),American International College,1,0,0,0,0.00,0,0
+1396,Joe Hankinson (F),University of New Hampshire,1,0,0,0,0.00,0,0
+1397,Reilly Funk (C),Northern Michigan University,1,0,0,0,0.00,0,-1
+1398,Jackson Sterrett (F),UMass-Lowell,1,0,0,0,0.00,0,0
+1399,Jared Kucharek (D),Western Michigan University,1,0,0,0,0.00,0,0
+1400,Aidan Metcalfe (D),University of Connecticut,1,0,0,0,0.00,0,0
+1401,Alexander Tertyshny (D),American International College,1,0,0,0,0.00,0,0
+1402,Zachary Purcell (F),American International College,1,0,0,0,0.00,0,0
+1403,Luke Khozozian (F),Harvard University,1,0,0,0,0.00,0,0
+1404,Jack Page (D),Boston University,1,0,0,0,0.00,0,0
+1405,Andrew Gilbert (D),Army (U.S. Military Academy),1,0,0,0,0.00,0,0
+1406,Jake Gingell (D),University of Michigan,2,0,0,0,0.00,0,0
+1407,Dan Petrick (D),Sacred Heart University,2,0,0,0,0.00,0,-1
+1408,Brenden Datema (D),Michigan Tech,2,0,0,0,0.00,0,1
+1409,Zane Kindrachuk (F),Niagara University,2,0,0,0,0.00,0,-1
+1410,Chase Danol (F),Bowling Green State University,2,0,0,0,0.00,0,-1
+1411,Jason Kleinhans (F),Air Force Academy,2,0,0,0,0.00,0,-2
+1412,Kevin Sadovski (D),Merrimack College,2,0,0,0,0.00,0,-1
+1413,Matt Denman (D),University of Minnesota,2,0,0,0,0.00,0,0
+1414,Billy Duma (F),Air Force Academy,2,0,0,0,0.00,0,0
+1415,Perry Winfree (D),University of Maine,2,0,0,0,0.00,0,-1
+1416,Liam McLinskey (RW/LW),Quinnipiac University,2,0,0,0,0.00,0,0
+1417,Altti Nykänen (F),RPI (Rensselaer Polytech. Inst.),2,0,0,0,0.00,0,1
+1418,Colby Enns (D),Northern Michigan University,2,0,0,0,0.00,0,0
+1419,Sami Pharaon (D),Princeton University,2,0,0,0,0.00,2,-1
+1420,Jackson Ross (D),Colorado College,2,0,0,0,0.00,2,1
+1421,Luke Perunovich (D),Providence College,2,0,0,0,0.00,2,1
+1422,Charlie Campbell (F),Clarkson University,3,0,0,0,0.00,0,0
+1423,Thomas Jarman (D),Boston University,3,0,0,0,0.00,0,-2
+1424,Jack Jeffers (F),Lake Superior State University,3,0,0,0,0.00,0,-3
+1425,Jack Powell (D),Bemidji State University,3,0,0,0,0.00,0,-1
+1426,Luke Johnson (D),Providence College,3,0,0,0,0.00,0,0
+1427,Jace Foskey (D),Harvard University,3,0,0,0,0.00,0,0
+1428,Sean Driscoll (D),Boston University,3,0,0,0,0.00,0,-1
+1429,Sebastian Miedema (D),Lake Superior State University,3,0,0,0,0.00,0,1
+1430,Trevor St. Jean (F),Bowling Green State University,3,0,0,0,0.00,2,-1
+1431,Alex Cohen (C),Union College,3,0,0,0,0.00,2,0
+1432,Evan McIntyre (D),Ohio State University,3,0,0,0,0.00,2,-1
+1433,Antonio Di Paolo (D),University of Alaska-Fairbanks,3,0,0,0,0.00,4,-1
+1434,Andrei Buyalsky (C),University of Vermont,3,0,0,0,0.00,4,-1
+1435,Cooper Fensterstock (C/RW),Colorado College,4,0,0,0,0.00,0,-2
+1436,Zach Bramwell (F),Cornell University,4,0,0,0,0.00,0,0
+1437,Kabore Dunn (D),University of Maine,4,0,0,0,0.00,0,0
+1438,Jared Westcott (C/LW),Lake Superior State University,4,0,0,0,0.00,0,-3
+1439,Blais Richartz (F),Michigan Tech,4,0,0,0,0.00,0,-3
+1440,Nick Parody (D),Canisius College,4,0,0,0,0.00,0,0
+1441,Spencer Evans (D),Brown University,4,0,0,0,0.00,0,0
+1442,Michael Holland (F),Miami University (Ohio),4,0,0,0,0.00,0,-3
+1443,Alexandre Roy (D),Niagara University,4,0,0,0,0.00,2,-3
+1444,Chad Sasaki (D),Colorado College,4,0,0,0,0.00,2,-2
+1445,Calvon Boots (D),RIT (Rochester Inst. of Tech.),4,0,0,0,0.00,2,-1
+1446,Eric Ciccolini (RW),University of Michigan,4,0,0,0,0.00,8,0
+1447,Nátán Vertes (LW/C),University of Alaska-Fairbanks,4,0,0,0,0.00,15,-1
+1448,Cody Hoban (F),Sacred Heart University,5,0,0,0,0.00,0,-2
+1449,Dalton Weigel (D),Air Force Academy,5,0,0,0,0.00,2,-2
+1450,Ryan Drkulec (F),Harvard University,5,0,0,0,0.00,2,0
+1451,Will Francis (D),University of Minnesota-Duluth,5,0,0,0,0.00,2,-2
+1452,Austin McCarthy (F),Ferris State University,5,0,0,0,0.00,4,-2
+1453,Markus Boguslavsky (RW),Boston University,5,0,0,0,0.00,15,0
+1454,Tanner Schachle (LW),Long Island University,5,0,0,0,0.00,19,-2
+1455,Michael Suda (D),Cornell University,6,0,0,0,0.00,0,-1
+1456,Brady Bjork (LW/RW),University of Notre Dame,6,0,0,0,0.00,0,0
+1457,Shay Donovan (D),University of Wisconsin,6,0,0,0,0.00,0,-2
+1458,James Davenport (D),Northeastern University,6,0,0,0,0.00,2,0
+1459,Alex Murray (D),Miami University (Ohio),6,0,0,0,0.00,4,-1
+1460,Ryan Lovett (F),Dartmouth College,6,0,0,0,0.00,4,-1
+1461,Peter Muzyka (D),Cornell University,6,0,0,0,0.00,15,1
+1462,Jake Rosenbaum (D),University of Minnesota-Duluth,7,0,0,0,0.00,0,0
+1463,Thomas Rocco (F),St. Cloud State University,7,0,0,0,0.00,0,3
+1464,Drew Hickey (D),University of New Hampshire,7,0,0,0,0.00,0,-3
+1465,Ian Malcolmson (F),Northern Michigan University,7,0,0,0,0.00,0,-3
+1466,Matthew Hayami (C),Princeton University,7,0,0,0,0.00,2,-7
+1467,Spencer DenBeste (F),Lake Superior State University,7,0,0,0,0.00,4,-4
+1468,Merritt Oszytko (F),RIT (Rochester Inst. of Tech.),7,0,0,0,0.00,7,0
+1469,Brock Paul (D),Dartmouth College,7,0,0,0,0.00,15,-3
+1470,Cam Gaudette (D),Northeastern University,8,0,0,0,0.00,0,-1
+1471,Jakob Peterson (D),Northern Michigan University,8,0,0,0,0.00,2,-1
+1472,Steven Bellini (D),Minnesota State University (Mankato),8,0,0,0,0.00,4,3
+1473,Will Schimek (D),Providence College,8,0,0,0,0.00,8,-1
+1474,Jack Lyons (D),Canisius College,8,0,0,0,0.00,17,1
+1475,Reggie Millette (F),American International College,9,0,0,0,0.00,0,-2
+1476,Grant Anderson (D),Sacred Heart University,9,0,0,0,0.00,0,-5
+1477,Louis Helsen (D),RPI (Rensselaer Polytech. Inst.),9,0,0,0,0.00,2,4
+1478,Andrew Petrillo (D),University of Vermont,9,0,0,0,0.00,2,-2
+1479,Connor Marshall (F),Brown University,10,0,0,0,0.00,0,-1
+1480,Darwin Lakoduk (F),American International College,10,0,0,0,0.00,0,-2
+1481,Jack Works (F),University of Denver,10,0,0,0,0.00,4,0
+1482,Matthew Vermaeten (F),Canisius College,10,0,0,0,0.00,15,-1
+1483,Justin Thompson (F),Long Island University,10,0,0,0,0.00,21,-3
+1484,Michael Kane (F),College of the Holy Cross,11,0,0,0,0.00,0,-1
+1485,Azzaro Tinling (RW),University of Vermont,11,0,0,0,0.00,2,-2
+1486,Devlin O'Brien (LW),Merrimack College,11,0,0,0,0.00,2,1
+1487,Linden Alger (D),UMass,11,0,0,0,0.00,2,-2
+1488,Cassidy Bowes (LW),University of Connecticut,11,0,0,0,0.00,2,-4
+1489,Jake Martin (D),University of Wisconsin,11,0,0,0,0.00,8,-2
+1490,Alexander Lundman (RW/LW),Bemidji State University,12,0,0,0,0.00,2,4
+1491,Karl Falk (D),University of Alaska-Fairbanks,12,0,0,0,0.00,4,0
+1492,Connor Fedorek (D),Ferris State University,12,0,0,0,0.00,4,-8
+1493,Jack Hillman (D),College of the Holy Cross,12,0,0,0,0.00,5,-2
+1494,Marcus Walter (D),Bentley University,12,0,0,0,0.00,10,-3
+1495,Josh Phillips (D),Union College,12,0,0,0,0.00,10,1
+1496,Carsen Richels (LW),University of New Hampshire,13,0,0,0,0.00,0,-4
+1497,Shayne Monahan (D),University of St. Thomas,13,0,0,0,0.00,8,-11
+1498,Fletcher Fineman (D),Union College,14,0,0,0,0.00,0,0
+1499,Chase McInnis (F),Northeastern University,14,0,0,0,0.00,0,0
+1500,Jack Lagerstrom (D),Cornell University,14,0,0,0,0.00,4,1
