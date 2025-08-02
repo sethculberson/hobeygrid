@@ -20,11 +20,9 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
                       builder =>
                       {
-                          // Allow requests from your React development server
-                          builder.WithOrigins("http://localhost:3000", "https://localhost:3000")
+                          builder.WithOrigins("https://hobeygrid.com", "https://www.hobeygrid.com")
                                  .AllowAnyHeader()
                                  .AllowAnyMethod();
-                          // In production, replace "http://localhost:3000" with your actual frontend domain
                       });
 });
 
