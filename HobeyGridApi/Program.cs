@@ -20,7 +20,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
                       builder =>
                       {
-                          builder.WithOrigins("https://hobeygrid.com", "https://www.hobeygrid.com")
+                          builder.WithOrigins("https://hobeygrid.com", "https://www.hobeygrid.com, https://proud-coast-029e37910.2.azurestaticapps.net")
                                  .AllowAnyHeader()
                                  .AllowAnyMethod();
                       });

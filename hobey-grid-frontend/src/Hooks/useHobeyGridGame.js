@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
 
-const API_BASE_URL = 'hobeygrid-a8gpbqdhhba3b4ak.centralus-01.azurewebsites.net';
+const API_BASE_URL = 'hobeygridapi.azurewebsites.net';
 
 export default function useHobeyGridGame() {
   // Grid state now stores objects {name: 'Player Name', id: 'player-uuid'}
