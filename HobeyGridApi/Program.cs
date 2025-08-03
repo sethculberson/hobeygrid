@@ -73,7 +73,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 // Use the CORS policy - IMPORTANT: This must be placed before UseAuthorization() and UseEndpoints()
 app.UseCors(MyAllowSpecificOrigins);
