@@ -11,8 +11,20 @@ using HobeyGridApi.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Check for the WEBSITES_PORT environment variable and configure the app to listen on it.
+var port = Environment.GetEnvironmentVariable("WEBSITES_PORT");
+if (!string.IsNullOrEmpty(port))
+{
+    builder.WebHost.UseUrls($"http://+:{port}");
+}
+else
+{
+    // Use the default port from appsettings.json or the project if not running on Azure.
+    builder.WebHost.UseUrls("http://+:" + (builder.Configuration["ASPNETCORE_URLS"] ?? "8080"));
+}
+
 // Define a CORS policy
-var MyAllowSpecificOrigins = "_myAllowSpecificOrigins"; // Name for your CORS policy
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 // Configure CORS
 builder.Services.AddCors(options =>
