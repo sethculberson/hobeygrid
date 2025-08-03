@@ -22,7 +22,11 @@ namespace HobeyGridApi.Auth
 
             var configuration = context.HttpContext.RequestServices.GetRequiredService<IConfiguration>();
             var apiKey = configuration.GetValue<string>("AdminSettings:ApiKey");
-
+            if (string.IsNullOrEmpty(apiKey))
+            {
+                context.Result = new UnauthorizedResult();
+                return;
+            }
             if (!apiKey.Equals(extractedApiKey))
             {
                 context.Result = new UnauthorizedResult();
