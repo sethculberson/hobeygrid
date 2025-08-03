@@ -7,14 +7,14 @@ import sys
 
 # --- Database Connection Details ---
 # IMPORTANT: Replace these with your actual PostgreSQL credentials and database name
-DB_HOST = "localhost"
-DB_NAME = "hobey_grid_db"
+DB_HOST = "hobeygrid-db.postgres.database.azure.com"
+DB_NAME = "hobeygriddb"
 DB_USER = "sethculberson"  # The user you created (e.g., 'hobey_user')
 DB_PASSWORD = "#S3thIsCoo105302005" # The password for your_username
 
 # --- CSV File Path ---
 # IMPORTANT: Replace this with the actual path to your CSV file
-CSV_FILE_PATH = "DataCollection/ncaa_stats_2019_2020.csv"
+CSV_FILE_PATH = "ncaa_stats_2018_2019.csv"
 
 # --- CSV Column Mapping ---
 # Ensure these match the exact column headers in your CSV file
@@ -118,7 +118,7 @@ def import_data():
                             first_name = full_name.split(' ', 1)[0] if ' ' in full_name else full_name
                             last_name = full_name.split(' ', 1)[1] if ' ' in full_name else ""
                             full_name = f"{first_name} {last_name}".strip()
-                            season_year = 2019
+                            season_year = 2018
                             
                             if full_name == "Ryan Sullivan":
                                 full_name = "Ryan Sullivan (Miami)"

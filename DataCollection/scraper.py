@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-base_url = "https://www.eliteprospects.com/league/ncaa/stats/2019-2020?page="
+base_url = "https://www.eliteprospects.com/league/ncaa/stats/2018-2019?page="
 columns=['ID','Player', 'Team', 'GP', 'G', 'A','TP','PPG','PIM','PM']
 
 total_data = []
@@ -21,9 +21,9 @@ def getPageData(page):
             total_data.append(cells)
     #return df
 
-for i in range(1,16):
+for i in range(1,15):
     getPageData(i)
     print(f"Page {i} added...")
 
 df = pd.DataFrame(data=total_data, columns=columns)
-df.to_csv('ncaa_stats_2019_2020.csv', index=False)
+df.to_csv('ncaa_stats_2018_2019.csv', index=False)
