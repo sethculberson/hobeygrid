@@ -1,0 +1,108 @@
+# VSCode
+.vscode/
+
+# Build artifacts
+bin/
+obj/
+
+# NuGet packages
+.nuget/
+[Dd]ata/
+
+# Logs
+logs/
+*.log
+
+# Windows
+[Tt]humbs.db
+*.DS_Store
+
+# Git
+.git/
+.gitattributes
+.gitmodules
+
+# .NET
+*.csproj.user
+*.suo
+*.user
+*.userosf
+*.sln.docstates
+*.vshost.*
+*.vspscc
+*.vssscc
+*.tmp
+*.bak
+*.orig
+*.pdb
+*.obj
+*.exe
+*.dll
+*.xml
+
+# Docker
+*.dockerignore
+*.dockerfile
+*.tar.gz
+.docker
+.env
+
+# Web apps
+node_modules/
+dist/
+build/
+.cache
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+*.db
+*.sql
+*.sqlite
+*.sqlite3
+*.db3
+*.db-journal
+*.bak
+
+# Web scraping
+*.csv
+*.xlsx
+*.txt
+*.json
+__pycache__/
+
+# Python
+.venv
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+*.zip
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/extensions.json
+.idea/
+.project
+.metadata
+
+# IDEs
+.idea
+.vscode
+
+# Visual Studio
+.vs/
+*.sln.ide-state
+
+# Rider
+.idea/
+*.sln.iml
+
+# JetBrains
+*.iws
+*.iml
+*.ipr
+.idea/
