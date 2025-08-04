@@ -108,7 +108,7 @@ namespace HobeyGridApi.Services
             {
                 new GridCategory { Name = "20 Goals+ (Season)", Type = "Stat", StatField = "G", MinValue = 20 },
                 new GridCategory { Name = "30 Assists+ (Season)", Type = "Stat", StatField = "A", MinValue = 30 },
-                new GridCategory { Name = "10+ Games Played (Season)", Type = "Stat", StatField = "GP" , MinValue = 10 }
+                new GridCategory { Name = "20+ Games Played (Season)", Type = "Stat", StatField = "GP" , MinValue = 20 }
             };
 
             var gridDate = DateOnly.FromDateTime(DateTime.UtcNow);
