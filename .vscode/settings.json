@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/c7134705-bf56-4904-a8ef-0d5a87c6f812/resourceGroups/hobeygrid-rg/providers/Microsoft.Web/sites/hobeygrid",
-    "appService.deploySubpath": "HobeyGridApi"
-}
