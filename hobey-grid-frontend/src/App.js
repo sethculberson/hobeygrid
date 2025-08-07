@@ -29,8 +29,8 @@ export default function App() {
 
 
   return (
-    <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center p-4 font-inter">
-      <h1 className="text-5xl font-extrabold mb-8 text-purple-400 flex items-center">
+    <div className="min-h-screen bg-gray-200 text-zinc-900 flex flex-col items-center justify-center p-4 font-inter">
+      <h1 className="text-5xl font-extrabold mb-8 text-orange-500 flex items-center">
         <Grid3X3 className="mr-4" size={48} />
         Hobey Grid
       </h1>
@@ -59,10 +59,6 @@ export default function App() {
         resetGame={resetGame}
       />
 
-      <footer className="mt-12 text-gray-500 text-sm text-center">
-        <p>&copy; {new Date().getFullYear()} Hobey Grid. All rights reserved.</p>
-        <p>Inspired by HoopGrids and Immaculate Grid.</p>
-      </footer>
     </div>
   );
 }

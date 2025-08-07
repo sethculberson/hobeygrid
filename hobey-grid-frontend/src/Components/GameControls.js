@@ -13,7 +13,7 @@ export default function GameControls({ message, isGameActive, handleSubmit, rese
       {isGameActive && (
         <button
           onClick={handleSubmit}
-          className="mt-8 px-8 py-3 bg-purple-600 hover:bg-purple-700 text-white font-bold rounded-full shadow-lg transform transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-purple-500"
+          className="mt-8 px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-full shadow-lg transform transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-orange-400"
         >
           Submit Grid <CheckCircle className="inline-block ml-2" size={20} />
         </button>
