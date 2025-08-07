@@ -29,8 +29,8 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gray-200 text-zinc-900 flex flex-col items-center justify-center p-4 font-inter">
-      <div className = 'bg-zinc-900'>
-          <label className = 'text-orange-500 overflow-hidden hover:text-orange-600'>
+      <div className = 'mx-auto top-0 max-w-screen-xl bg-zinc-900'>
+          <label className = 'text-orange-500 overflow-hidden'>
               Hobey Grid, by Seth Culberson
           </label>
       </div>
