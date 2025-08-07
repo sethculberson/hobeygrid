@@ -13,7 +13,7 @@ export default function GameControls({ message, isGameActive, handleSubmit, rese
       {isGameActive && (
         <button
           onClick={handleSubmit}
-          className="mt-8 px-8 py-3 bg-orange-500 hover:bg-red-600 text-white font-bold rounded-full shadow-lg transform transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-red-400"
+          className="mt-8 px-8 py-3 bg-red-500 hover:bg-red-600 text-white font-bold rounded-full shadow-lg transform transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-red-400"
         >
           Submit Grid <CheckCircle className="inline-block ml-2" size={20} />
         </button>
@@ -22,7 +22,7 @@ export default function GameControls({ message, isGameActive, handleSubmit, rese
       {!isGameActive && (
         <button
           onClick={resetGame}
-          className="mt-8 px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-full shadow-lg transform transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-blue-500"
+          className="mt-8 px-8 py-3 bg-red-500 hover:bg-red-600 text-white font-bold rounded-full shadow-lg transform transition-transform duration-200 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-red-600"
         >
           Play Again <Trophy className="inline-block ml-2" size={20} />
         </button>

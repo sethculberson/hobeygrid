@@ -17,14 +17,14 @@ export default function GridDisplay({
     <div className="grid grid-cols-4 gap-2 p-4 bg-gray-400 rounded-lg shadow-xl">
       <div className="p-2 text-center font-bold text-gray-400"></div>
       {colCategories.map((cat, index) => (
-        <div key={`col-cat-${index}`} className="p-2 text-center font-semibold text-blue-300 bg-blue-900 rounded-md">
+        <div key={`col-cat-${index}`} className="p-2 text-center font-semibold text-red-100 bg-red-500 rounded-md">
           {cat}
         </div>
       ))}
       {/* Rows */}
       {rowCategories.map((rowCat, rowIndex) => (
         <React.Fragment key={`row-${rowIndex}`}>
-          <div className="p-2 text-center font-semibold text-green-300 bg-green-900 rounded-md">
+          <div className="p-2 text-center font-semibold text-red-100 bg-red-500 rounded-md">
             {rowCat}
           </div>
           {grid[rowIndex].map((cellValue, colIndex) => (
