@@ -72,7 +72,7 @@ build/
 *.txt
 *.json
 __pycache__/
-
+DataCollection/
 # Python
 .venv
 venv/
