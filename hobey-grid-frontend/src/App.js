@@ -31,8 +31,8 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-200 text-zinc-900 flex flex-col items-center justify-center p-4 font-inter">
       <nav className = 'fixed left-0 top-0 w-full bg-red-700'>
-          <Grid3X3/>
           <h1 className="text-3xl p-4 font-extrabold text-white flex items-center">
+            <Grid3X3 className='mr-3' size={32}/>
             Hobey Grid
           </h1>
       </nav>
