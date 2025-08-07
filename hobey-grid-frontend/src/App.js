@@ -1,5 +1,4 @@
 import React from 'react';
-import { Grid3X3 } from 'lucide-react';
 import useHobeyGridGame from './Hooks/useHobeyGridGame';
 import GridDisplay from './Components/GridDisplay';
 import GameControls from './Components/GameControls';
