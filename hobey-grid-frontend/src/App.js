@@ -29,14 +29,14 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gray-200 text-zinc-900 flex flex-col items-center justify-center p-4 font-inter">
-      <nav className = 'fixed left-0 top-0 w-full bg-zinc-900'>
-          <h1 className="text-3xl font-extrabold text-orange-400 flex items-center">
+      <nav className = 'fixed left-0 top-0 w-full bg-red-700'>
+          <h1 className="text-3xl p-4 font-extrabold text-white flex items-center">
             Hobey Grid
           </h1>
       </nav>
 
-      <p className="text-lg mb-8 text-zinc-900 text-center max-w-2xl">
-        Test your college hockey knowledge! Fill the grid with players who fit both the row and column categories.
+      <p className="text-lg mb-8 text-zinc-900 text-center max-w-3xl">
+        Fill the grid with players who fit both the row and column categories!
       </p>
 
       <GridDisplay
