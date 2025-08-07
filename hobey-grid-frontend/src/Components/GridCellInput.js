@@ -23,7 +23,7 @@ export default function GridCellInput({
     <div className="relative">
       <input
         type="text"
-        className={`w-full p-2 text-center text-white rounded-md focus:outline-none focus:ring-2 focus:ring-purple-500 disabled:bg-gray-600 ${cellBgClass}`}
+        className={`w-full p-2 text-center text-white rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 disabled:bg-gray-600 ${cellBgClass}`}
         value={value.name}
         onChange={(e) => onChange(e, row, col)}
         onFocus={() => onFocus(row, col)}
@@ -44,7 +44,7 @@ export default function GridCellInput({
             searchResults.map(player => (
               <div
                 key={player.id}
-                className="p-2 text-white hover:bg-purple-600 cursor-pointer"
+                className="p-2 text-white hover:bg-orange-600 cursor-pointer"
                 onClick={() => onPlayerSelect(player.name, player.id)}
               >
                 {player.name}
