@@ -31,7 +31,11 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gray-200 text-zinc-900 flex flex-col items-center justify-center p-4 font-inter">
-      <NavBar/>
+      <div className = 'bg-zinc-900'>
+          <label className = 'text-orange-500 overflow-hidden hover:text-orange-600'>
+              Hobey Grid, by Seth Culberson
+          </label>
+      </div>
 
       <p className="text-lg mb-8 text-zinc-900 text-center max-w-2xl">
         Test your college hockey knowledge! Fill the grid with players who fit both the row and column categories.
