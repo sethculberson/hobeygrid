@@ -3,7 +3,6 @@ import { Grid3X3 } from 'lucide-react';
 import useHobeyGridGame from './Hooks/useHobeyGridGame';
 import GridDisplay from './Components/GridDisplay';
 import GameControls from './Components/GameControls';
-import NavBar from '.Components/NavBar'
 
 export default function App() {
   const {
