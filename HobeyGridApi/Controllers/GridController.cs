@@ -9,6 +9,9 @@ namespace HobeyGridApi.Controllers
     using System.Collections.Generic;
     using System.Linq; // Added for .Select
     using System.Threading.Tasks;
+    using System.Data;
+    using Microsoft.Extensions.ObjectPool;
+    using System.Text.Json;
 
     [Route("api/[controller]")]
     [ApiController]
@@ -59,6 +62,27 @@ namespace HobeyGridApi.Controllers
             catch (Exception ex)
             {
                 return StatusCode(500, $"An unexpected error occurred during validation: {ex.Message}");
+            }
+        }
+        [HttpPost("create-grid")]
+        public async Task<ActionResult<GridInstance>> CreateGrid([FromBody] GridCreationDto gridDto)
+        {
+            try
+            {
+                var newGrid = await _gridService.GenerateSpecificGrid(gridDto.RowCategories, gridDto.ColCategories);
+                return Ok(newGrid);
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            catch (InvalidOperationException ex)
+            {
+                return Conflict(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"An unexpected error occurred: {ex.Message}");
             }
         }
     }

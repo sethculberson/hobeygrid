@@ -34,4 +34,10 @@ namespace HobeyGridApi.Models
         public List<GridCategory> RowCategories { get; set; } = new List<GridCategory>();
         public List<GridCategory> ColCategories { get; set; } = new List<GridCategory>();
     }
+
+    public class GridCreationDto
+    {
+        public List<GridCategory> RowCategories { get; set; } = new List<GridCategory>();
+        public List<GridCategory> ColCategories { get; set; } = new List<GridCategory>();
+    }
 }

@@ -92,7 +92,7 @@ namespace HobeyGridApi.Services
         }
 
         /// <summary>
-        /// Generates today's daily grid by randomly selecting categories.
+        /// Gets today's daily grid.
         /// If a grid for today already exists, it will overwrite it if allowed.
         /// </summary>
         /// <returns>A GridInstance object for today's grid.</returns>
@@ -155,6 +155,56 @@ namespace HobeyGridApi.Services
             return newGridInstance;
         }
 
+        public async Task<GridInstance> GenerateSpecificGrid(List<GridCategory> rows, List<GridCategory> cols)
+        {
+            if (rows.Count != 3 || cols.Count != 3) throw new ArgumentException("Exactly 3 row categories and 3 column categories are required.");
+
+            var gridDate = DateOnly.FromDateTime(DateTime.UtcNow);
+
+            var existingGrid = await _context.GridInstances
+                .FirstOrDefaultAsync(g => g.GridDate == gridDate);
+            if (existingGrid != null)
+            {
+                _context.GridInstances.Remove(existingGrid);
+                await _context.SaveChangesAsync();
+                Console.WriteLine($"Overwriting existing grid for {gridDate}.");
+            }
+
+            var correctAnswers = new Dictionary<string, List<Guid>>();
+
+            for (int r = 0; r < 3; r++)
+            {
+                for (int c = 0; c < 3; c++)
+                {
+                    var rowCategory = rows[r];
+                    var colCategory = cols[c];
+
+                    var rowPlayersContexts = await GetPlayerSeasonContextsForCategory(rowCategory);
+                    var colPlayersContexts = await GetPlayerSeasonContextsForCategory(colCategory);
+
+                    var intersection = colPlayersContexts.Intersect(rowPlayersContexts).ToList();
+
+                    correctAnswers[$"{r}_{c}"] = intersection;
+                }
+            }
+
+            var newGridInstance = new GridInstance
+            {
+                GridId = Guid.NewGuid(),
+                GridDate = gridDate,
+                RowCategory1 = JsonSerializer.Serialize(rows[0]),
+                RowCategory2 = JsonSerializer.Serialize(rows[1]),
+                RowCategory3 = JsonSerializer.Serialize(rows[2]),
+                ColCategory1 = JsonSerializer.Serialize(cols[0]),
+                ColCategory2 = JsonSerializer.Serialize(cols[1]),
+                ColCategory3 = JsonSerializer.Serialize(cols[2]),
+                CorrectAnswersJson = JsonSerializer.Serialize(correctAnswers)
+            };
+            _context.GridInstances.Add(newGridInstance);
+            await _context.SaveChangesAsync();
+
+            return newGridInstance;
+        }
 
         /// <summary>
         /// Validates a user-submitted grid against the correct answers stored in the database.
@@ -164,7 +214,7 @@ namespace HobeyGridApi.Services
         /// <returns>A dictionary where keys are "row_col" and values are booleans indicating correctness.</returns>
         /// <exception cref="ArgumentException">Thrown if the gridId is invalid.</exception>
         public async Task<Dictionary<string, bool>> ValidateSubmittedGrid(Guid gridId, Dictionary<string, Guid?> submittedPlayerIds)
-        {   
+        {
             var result = new Dictionary<string, bool>();
             var gridInstance = await _context.GridInstances.FirstOrDefaultAsync(g => g.GridId == gridId) ?? throw new ArgumentException("Invalid Grid ID provided for validation.");
             if (gridInstance.CorrectAnswersJson == null)
@@ -172,8 +222,8 @@ namespace HobeyGridApi.Services
                 throw new InvalidOperationException("No correct answers found for the provided grid ID.");
             }
             // Deserialize the stored correct answers
-            var correctAnswers = JsonSerializer.Deserialize<Dictionary<string, List<Guid>>>(gridInstance.CorrectAnswersJson) ?? throw new InvalidOperationException("Failed to deserialize correct answers for the provided grid ID."); 
-        
+            var correctAnswers = JsonSerializer.Deserialize<Dictionary<string, List<Guid>>>(gridInstance.CorrectAnswersJson) ?? throw new InvalidOperationException("Failed to deserialize correct answers for the provided grid ID.");
+
             foreach (var entry in submittedPlayerIds)
             {
                 var cellKey = entry.Key; // e.g., "0_0"
