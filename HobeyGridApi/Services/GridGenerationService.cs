@@ -83,25 +83,71 @@ namespace HobeyGridApi.Services
                     break;
                 case "Stat":
                     IQueryable<PlayerCollegeSeason> statQuery = _context.PlayerSeasonStats.AsNoTracking();
+                    if (category.Value == "Season")
+                    {
+                        if (category.StatField == "G" && category.MinValue.HasValue)
+                        {
+                            statQuery = statQuery.Where(pcs => pcs.G >= category.MinValue.Value);
+                        }
+                        else if (category.StatField == "A" && category.MinValue.HasValue)
+                        {
+                            statQuery = statQuery.Where(pcs => pcs.A >= category.MinValue.Value);
+                        }
+                        else if (category.StatField == "TP" && category.MinValue.HasValue)
+                        {
+                            statQuery = statQuery.Where(pcs => pcs.Tp >= category.MinValue.Value);
+                        }
+                        else if (category.StatField == "PIM" && category.MinValue.HasValue)
+                        {
+                            statQuery = statQuery.Where(pcs => pcs.Pim >= category.MinValue.Value);
+                        }
+                        playerIds = await statQuery.Select(pcs => pcs.PlayerId).Distinct().ToListAsync();
+                    }
+                    else if (category.Value == "Career")
+                    {
+                        var careerStats = await _context.PlayerSeasonStats
+                            .AsNoTracking()
+                            .GroupBy(pcs => pcs.PlayerId)
+                            .Select(g => new
+                            {
+                                PlayerId = g.Key,
+                                TotalGamesPlayed = g.Sum(pcs => pcs.Gp),
+                                TotalGoals = g.Sum(pcs => pcs.G),
+                                TotalAssists = g.Sum(pcs => pcs.A),
+                                TotalPoints = g.Sum(pcs => pcs.Tp),
+                                TotalPIM = g.Sum(pcs => pcs.Pim),
+                                TotalPM = g.Sum(pcs => pcs.Pm)
+                            })
+                            .ToListAsync();
 
-                    if (category.StatField == "G" && category.MinValue.HasValue)
-                    {
-                        statQuery = statQuery.Where(pcs => pcs.G >= category.MinValue.Value);
-                    }
-                    else if (category.StatField == "A" && category.MinValue.HasValue)
-                    {
-                        statQuery = statQuery.Where(pcs => pcs.A >= category.MinValue.Value);
-                    }
-                    else if (category.StatField == "TP" && category.MinValue.HasValue)
-                    {
-                        statQuery = statQuery.Where(pcs => pcs.Tp >= category.MinValue.Value);
-                    }
-                    else if (category.StatField == "PIM" && category.MinValue.HasValue)
-                    {
-                        statQuery = statQuery.Where(pcs => pcs.Pim >= category.MinValue.Value);
-                    }
+                        IEnumerable<Guid> matchingPlayerIds;
 
-                    playerIds = await statQuery.Select(pcs => pcs.PlayerId).Distinct().ToListAsync();
+                        if (category.MinValue == null)
+                        {
+                            return [];
+                        }
+                        switch (category.StatField)
+                        {
+                            case "GP":
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalGamesPlayed >= category.MinValue.Value).Select(cs => cs.PlayerId);
+                                break;
+                            case "G":
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalGoals >= category.MinValue.Value).Select(cs => cs.PlayerId);
+                                break;
+                            case "A":
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalAssists >= category.MinValue.Value).Select(cs => cs.PlayerId);
+                                break;
+                            case "TP":
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints >= category.MinValue.Value).Select(cs => cs.PlayerId);
+                                break;
+                            case "PIM":
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM >= category.MinValue.Value).Select(cs => cs.PlayerId);
+                                break;
+                            default:
+                                return [];
+                        }
+                        playerIds = matchingPlayerIds.Select(id => id).ToList();
+                    }
 
                     break;
             }
