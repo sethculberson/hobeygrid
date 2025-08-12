@@ -50,6 +50,23 @@ namespace HobeyGridApi.Services
                                                   .ToListAsync();
                     }
                     break;
+                case "Conference":
+                    var conference = category.Value;
+                    var teamsInConference = await _context.CollegeTeams
+                        .AsNoTracking()
+                        .Where(ct => ct.Conference == conference)
+                        .ToListAsync();
+                    if (teamsInConference.Count > 0)
+                    {
+                        var teamIds = teamsInConference.Select(ct => ct.TeamId).ToList();
+
+                        playerIds = await _context.PlayerSeasonStats
+                            .AsNoTracking()
+                            .Where(pcs => teamIds.Contains(pcs.TeamId))
+                            .Select(pcs => pcs.PlayerId)
+                            .ToListAsync();
+                    }
+                    break;
                 case "Award":
                     var award = await _context.Awards
                                               .AsNoTracking()

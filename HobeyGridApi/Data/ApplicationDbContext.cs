@@ -59,6 +59,10 @@ namespace HobeyGridApi.Data
                 .Property(ct => ct.Abbreviation)
                 .HasColumnName("abbreviation");
 
+            modelBuilder.Entity<CollegeTeam>()
+                .Property(ct => ct.Conference)
+                .HasColumnName("conference");
+
             modelBuilder.Entity<PlayerCollegeSeason>()
                 .Property(pcs => pcs.StatId)
                 .HasColumnName("stat_id");

@@ -12,6 +12,7 @@ namespace HobeyGridApi.Models
         public int TeamId { get; set; }
         public string TeamName { get; set; } = string.Empty;
         public string Abbreviation { get; set; } = string.Empty;
+        public string Conference { get; set; } = string.Empty;
 
         [JsonIgnore]
         public ICollection<PlayerCollegeSeason>? PlayerCollegeSeasons { get; set; }
