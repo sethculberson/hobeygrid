@@ -14,7 +14,7 @@ DB_PASSWORD = "#S3thIsCoo105302005" # The password for your_username
 
 # --- CSV File Path ---
 # IMPORTANT: Replace this with the actual path to your CSV file
-CSV_FILE_PATH = "ncaa_stats_2018_2019.csv"
+CSV_FILE_PATH = "DataCollection/ncaa_stats_2015_2016.csv"
 
 # --- CSV Column Mapping ---
 # Ensure these match the exact column headers in your CSV file
@@ -118,7 +118,7 @@ def import_data():
                             first_name = full_name.split(' ', 1)[0] if ' ' in full_name else full_name
                             last_name = full_name.split(' ', 1)[1] if ' ' in full_name else ""
                             full_name = f"{first_name} {last_name}".strip()
-                            season_year = 2018
+                            season_year = 2015
                             
                             if full_name == "Ryan Sullivan":
                                 full_name = "Ryan Sullivan (Miami)"
