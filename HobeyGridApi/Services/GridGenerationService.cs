@@ -161,61 +161,28 @@ namespace HobeyGridApi.Services
         /// <returns>A GridInstance object for today's grid.</returns>
         public async Task<GridInstance> GenerateDailyGrid()
         {
-            var rows = new List<GridCategory>
-            {
-                new GridCategory { Name = "Boston University", Type = "Team", Value = "Boston University" },
-                new GridCategory { Name = "Boston College", Type = "Team" , Value = "Boston College" },
-                new GridCategory { Name = "University of Denver", Type = "Team", Value = "University of Denver" },
-            };
-            var cols = new List<GridCategory>
-            {
-                new GridCategory { Name = "20 Goals+ (Season)", Type = "Stat", StatField = "G", MinValue = 20 },
-                new GridCategory { Name = "30 Assists+ (Season)", Type = "Stat", StatField = "A", MinValue = 30 },
-                new GridCategory { Name = "20+ Games Played (Season)", Type = "Stat", StatField = "GP" , MinValue = 20 }
-            };
-
             var gridDate = DateOnly.FromDateTime(DateTime.UtcNow);
 
             var existingGrid = await _context.GridInstances
                                              .FirstOrDefaultAsync(g => g.GridDate == gridDate);
             if (existingGrid != null)
             {
-                Console.WriteLine($"Grid for {gridDate} already exists. Returning existing grid.");
-                return existingGrid;
-            }
-
-            var correctAnswers = new Dictionary<string, List<Guid>>();
-            for (int r = 0; r < 3; r++)
-            {
-                for (int c = 0; c < 3; c++)
+                if (existingGrid.CorrectAnswersJson != null)
                 {
-                    var row = rows[r];
-                    var rowPlayers = await GetPlayerSeasonContextsForCategory(row);
-                    var col = cols[c];
-                    var colPlayers = await GetPlayerSeasonContextsForCategory(col);
-
-                    var intersection = colPlayers.Intersect(rowPlayers).ToList();
-
-                    correctAnswers[$"{r}_{c}"] = intersection;
+                    Console.WriteLine($"Grid for {gridDate} already exists. Returning existing grid.");
+                    return existingGrid;
                 }
             }
-            var newGridInstance = new GridInstance
+            else
             {
-                GridId = Guid.NewGuid(),
-                GridDate = gridDate,
-                RowCategory1 = JsonSerializer.Serialize(rows[0]),
-                RowCategory2 = JsonSerializer.Serialize(rows[1]),
-                RowCategory3 = JsonSerializer.Serialize(rows[2]),
-                ColCategory1 = JsonSerializer.Serialize(cols[0]),
-                ColCategory2 = JsonSerializer.Serialize(cols[1]),
-                ColCategory3 = JsonSerializer.Serialize(cols[2]),
-                CorrectAnswersJson = JsonSerializer.Serialize(correctAnswers)
-            };
-            
-            _context.GridInstances.Add(newGridInstance);
-            await _context.SaveChangesAsync();
-
-            return newGridInstance;
+                while (existingGrid == null)
+                {
+                    gridDate = gridDate.AddDays(-1);
+                    existingGrid = await _context.GridInstances
+                                     .FirstOrDefaultAsync(g => g.GridDate == gridDate);
+                }
+            }
+            return existingGrid;
         }
 
         public async Task<GridInstance> GenerateSpecificGrid(List<GridCategory> rows, List<GridCategory> cols)
