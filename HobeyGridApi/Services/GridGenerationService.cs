@@ -137,10 +137,10 @@ namespace HobeyGridApi.Services
                             case "A":
                                 matchingPlayerIds = careerStats.Where(cs => cs.TotalAssists >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
-                            case "TP":
+                            case "Tp":
                                 matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
-                            case "PIM":
+                            case "Pim":
                                 matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
                             default:
