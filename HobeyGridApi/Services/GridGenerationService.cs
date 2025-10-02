@@ -85,29 +85,21 @@ namespace HobeyGridApi.Services
                     IQueryable<PlayerCollegeSeason> statQuery = _context.PlayerSeasonStats.AsNoTracking();
                     if (category.Value == "Season")
                     {
-                        if (category.StatField == "G")
+                        if (category.StatField == "G" && category.MinValue.HasValue)
                         {
-                            if (category.MinValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.G >= category.MinValue.Value); }
-                            else if (category.MaxValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.G >= category.MaxValue.Value); }
+                            statQuery = statQuery.Where(pcs => pcs.G >= category.MinValue.Value);
                         }
-                        else if (category.StatField == "A")
+                        else if (category.StatField == "A" && category.MinValue.HasValue)
                         {
-                            if (category.MinValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.A >= category.MinValue.Value); }
-                            else if (category.MaxValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.A >= category.MaxValue.Value); }
+                            statQuery = statQuery.Where(pcs => pcs.A >= category.MinValue.Value);
                         }
-                        else if (category.StatField == "TP")
+                        else if (category.StatField == "TP" && category.MinValue.HasValue)
                         {
-                            if (category.MinValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.Tp >= category.MinValue.Value); }
-                            else if (category.MaxValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.Tp >= category.MaxValue.Value); }
+                            statQuery = statQuery.Where(pcs => pcs.Tp >= category.MinValue.Value);
                         }
-                        else if (category.StatField == "PIM")
+                        else if (category.StatField == "PIM" && category.MinValue.HasValue)
                         {
-                            if (category.MinValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.Pim >= category.MinValue.Value); }
-                            else if (category.MaxValue.HasValue) { statQuery = statQuery.Where(pcs => pcs.Pim >= category.MaxValue.Value); }
-                        }
-                        else
-                        {
-                            throw new ArgumentException("No field in player college seasons: " + category.StatField);
+                            statQuery = statQuery.Where(pcs => pcs.Pim >= category.MinValue.Value);
                         }
                         playerIds = await statQuery.Select(pcs => pcs.PlayerId).Distinct().ToListAsync();
                     }
