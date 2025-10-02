@@ -151,13 +151,6 @@ namespace HobeyGridApi.Services
                                 else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalAssists < category.MaxValue.Value).Select(cs => cs.PlayerId); }
                                 else return [];
                                 break;
-<<<<<<< HEAD
-                            case "TP":
-                                matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints >= category.MinValue.Value).Select(cs => cs.PlayerId);
-                                break;
-                            case "PIM":
-                                matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM >= category.MinValue.Value).Select(cs => cs.PlayerId);
-=======
                             case "Tp":
                                 if (category.MinValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints >= category.MinValue.Value).Select(cs => cs.PlayerId); }
                                 else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints < category.MaxValue.Value).Select(cs => cs.PlayerId); }
@@ -167,7 +160,6 @@ namespace HobeyGridApi.Services
                                 if (category.MinValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM >= category.MinValue.Value).Select(cs => cs.PlayerId); }
                                 else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM < category.MaxValue.Value).Select(cs => cs.PlayerId); }
                                 else return [];
->>>>>>> 96bc4a4c6b9047159b443cfa3bad557dff98ea36
                                 break;
                             default:
                                 return [];
