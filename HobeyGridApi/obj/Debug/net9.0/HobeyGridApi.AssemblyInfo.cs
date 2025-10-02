@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HobeyGridApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80cf071a956ca48bf0aa62bd92d0db26616328d0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7927643d56fb637ff1617c49b4e4f655e2eaeb0d")]
+>>>>>>> 96bc4a4c6b9047159b443cfa3bad557dff98ea36
 [assembly: System.Reflection.AssemblyProductAttribute("HobeyGridApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HobeyGridApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
