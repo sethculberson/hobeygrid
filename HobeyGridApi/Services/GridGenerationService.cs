@@ -130,36 +130,26 @@ namespace HobeyGridApi.Services
 
                         IEnumerable<Guid> matchingPlayerIds;
 
-                        if (!category.MinValue.HasValue && !category.MaxValue.HasValue)
+                        if (category.MinValue == null)
                         {
-                            throw new ArgumentNullException("category.MinValue and category.MaxValue cannot both be null.");
+                            return [];
                         }
                         switch (category.StatField)
                         {
                             case "GP":
-                                if (category.MinValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalGamesPlayed >= category.MinValue.Value).Select(cs => cs.PlayerId); }
-                                else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalGamesPlayed < category.MaxValue.Value).Select(cs => cs.PlayerId); }
-                                else return [];
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalGamesPlayed >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
                             case "G":
-                                if (category.MinValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalGoals >= category.MinValue.Value).Select(cs => cs.PlayerId); }
-                                else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalGoals < category.MaxValue.Value).Select(cs => cs.PlayerId); }
-                                else return [];
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalGoals >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
                             case "A":
-                                if (category.MinValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalAssists >= category.MinValue.Value).Select(cs => cs.PlayerId); }
-                                else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalAssists < category.MaxValue.Value).Select(cs => cs.PlayerId); }
-                                else return [];
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalAssists >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
-                            case "Tp":
-                                if (category.MinValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints >= category.MinValue.Value).Select(cs => cs.PlayerId); }
-                                else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints < category.MaxValue.Value).Select(cs => cs.PlayerId); }
-                                else return [];
+                            case "TP":
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalPoints >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
-                            case "Pim":
-                                if (category.MinValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM >= category.MinValue.Value).Select(cs => cs.PlayerId); }
-                                else if (category.MaxValue.HasValue) { matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM < category.MaxValue.Value).Select(cs => cs.PlayerId); }
-                                else return [];
+                            case "PIM":
+                                matchingPlayerIds = careerStats.Where(cs => cs.TotalPIM >= category.MinValue.Value).Select(cs => cs.PlayerId);
                                 break;
                             default:
                                 return [];
