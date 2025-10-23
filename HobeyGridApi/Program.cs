@@ -48,7 +48,11 @@ builder.Services.AddControllers()
     });
 
 // Configure PostgreSQL with Npgsql and EF Core
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+var connectionString = Environment.GetEnvironmentVariable("DEFAULT_CONNECTION");
+if (string.IsNullOrEmpty(connectionString))
+{
+    throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+}
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseNpgsql(connectionString,
         npgsqlOptions =>
